@@ -1,5 +1,12 @@
 # MCDB-187AL
 
+Edited Instructions on How to Use Annotator Tanveer Salim.docx
+
+Instructions on how to annotate
+
+genes.
+
+----------------------------------------
 MCDB 187AL Annotated Sequences List.txt
 
 Contains all the data you are going to 
@@ -8,13 +15,17 @@ want in your research paper.
 
 ---------------------------------------
 
-Edited Instructions on How to Use Annotator Tanveer Salim.docx
+/Multiple Sequence Alignment/*
 
-Instructions on how to annotate
+Multiple Sequence Alignment for EACH
 
-genes.
+coding genomic region as found
 
-----------------------------------------
+in Tanveer Salim MCDB 187AL Research
+
+Data
+
+---------------------------------------
 
 Tanveer Salim MCDB 187AL Research Data
 
