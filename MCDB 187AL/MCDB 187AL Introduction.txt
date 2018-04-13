@@ -1,0 +1,30 @@
+Tanveer Salim
+
+MCDB 187AL Lab Introduction
+
+Piazza https://piazza.com/ucla/spring2018/mcdb187al/home
+
+With the DNA yo ucan:
+
+Visualize the sequence in a genome browser
+
+Predict the gene structure from DNA sequence
+
+Use experimental evidence to refine
+
+Use evolutionary evidence to refine
+
+Functional analyses of the protein.
+
+Repeat this procedure to a contrast a pathway!
+
+AUGUSTUS http://bioinf.uni-greifswald.de/augustus/submission.php
+
+UCLA geome browser, https://genome.ucsc.edu/ -- An interactive website/software
+offering access to genome sequence data 
+
+Example: http://162.243.149.53:8887/annotator/index
+Public Demo on Bovine
+
+Enroll in Piazza
+

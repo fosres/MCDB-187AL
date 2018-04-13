@@ -1,0 +1,25 @@
+------------------------------------------------
+chr8 Peptide Sequence has been placed 
+
+into NCBI Peptide BLAST and this has
+
+been found:
+
+https://www.ncbi.nlm.nih.gov/Structure/cdd/wrpsb.cgi?RID=CWFSMASK01R&mode=all
+---------------------------------------------------
+chr7
+
+https://www.ncbi.nlm.nih.gov/Structure/cdd/wrpsb.cgi?RID=CWK4U8BN01R&mode=all
+
+--------------------------------------------------------------
+
+chr7
+
+Peptide Sequence
+
+>86b6fe37-fbc1-406d-976c-7ef37921fb72 (sequence:mRNA) 142 residues [chr7:19536368-19547811 - strand] [peptide]
+MPELRSGARRSKRVDDLYPAPQPIDQGDNWLLPAQNRTRRRAAGRGRGGGNAALAKGPSPAVPTRPTAAA
+RGRGIRLIDLDPEPCEVLPEAVALGAAEPLYNQVEVVADIDIGMEGGSADKVMGVEEEASTTPVPERVCE
+SR
+
+URL for BLAST Page Results

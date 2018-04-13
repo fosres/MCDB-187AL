@@ -1,0 +1,34 @@
+The web instance of Apollo is running at http://162.243.149.53:8887
+
+Apollo User Guide: http://genomearchitect.github.io/users-guide
+
+ TANVEER ANWAR SALIM chr8 700,001 795,000 MCGJ.8.6 MCGJ.8.6	
+
+LOGIN INFORMATION APOLLO
+----------------------------------
+INSTRUCTIONS:
+
+1. Be sure the right of your genetic engine says
+
+"Valley Oak"
+
+2. Paste chr8 700,001 795,000 into the Annotator search
+
+engine http://162.243.149.53:8887/annotator/index 
+
+and enter "Go".
+
+3. Choose one of the genes in the "Annotations" 
+
+   section to your right. CLICK "Go to Annotation"
+
+4. Find the purple bars that look like this:
+
+
+
+
+
+NCBI BLAST: Click on "PROTEIN BLAST"
+
+
+																													
