@@ -8,9 +8,7 @@ want in your research paper.
 
 ---------------------------------------
 
-Instructions on How to Use Annotator
-
-Tanveer Salim.docx
+Instructions on How to Use Annotator Tanveer Salim.docx
 
 Instructions on how to annotate
 
