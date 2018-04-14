@@ -12,7 +12,9 @@ git_save.sh
 
 To run git_save.sh in local repository:
 
-type "bash git_save.sh" in BASH.
+type "bash git_save.sh" in BASH and
+
+press ENTER.
 
 ----------------------------------------
 
