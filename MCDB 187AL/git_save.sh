@@ -2,6 +2,10 @@
 # Saves git local repository for MCDB187AL
 # to GitHub
 
+# To run git_save.sh:
+# Type "bash git_save.sh"
+# in BASH and press ENTER.
+
 #!/bin/bash
 
 	#Download everything from GitHub to local repostory
