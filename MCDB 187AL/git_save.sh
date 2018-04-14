@@ -4,8 +4,10 @@
 
 #!/bin/bash
 
-	git pull
+	#Download everything from GitHub to local repostory
 
+	git pull
+	
 	git add .
 
 	git commit -m MCDB187-UPDATED
