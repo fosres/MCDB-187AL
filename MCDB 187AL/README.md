@@ -7,6 +7,15 @@ Instructions on how to annotate
 genes.
 
 ----------------------------------------
+
+git_save.sh
+
+To run git_save.sh in local repository:
+
+type "bash git_save.sh" in BASH.
+
+----------------------------------------
+
 /Lecture_Slides/*
 
 Contains all powerpoint 
