@@ -7,6 +7,15 @@ Instructions on how to annotate
 genes.
 
 ----------------------------------------
+/Lecture_Slides/*
+
+Contains all powerpoint 
+
+presentations discussed 
+
+in lab.
+
+----------------------------------------
 MCDB 187AL Annotated Sequences List.txt
 
 Contains all the data you are going to 
@@ -19,11 +28,25 @@ want in your research paper.
 
 Multiple Sequence Alignment for EACH
 
-coding genomic region as found
+Annotation coding genomic region 
 
-in Tanveer Salim MCDB 187AL Research
+as found in Tanveer Salim MCDB 187AL 
 
-Data
+Research Data.
+
+---------------------------------------
+/Phylogenetic Tree/*
+
+Contains all the photos of Phylogenetic
+
+Trees for each coding genomic region.
+
+----------------------------------------
+/Presentations/*
+
+Contains all the powerpoints you will
+
+present throughout the MCDB187AL class.
 
 ---------------------------------------
 
