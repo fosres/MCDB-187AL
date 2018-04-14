@@ -2,7 +2,7 @@
 # Saves git local repository for MCDB187AL
 # to GitHub
 
-#!/bin/bash
+#!/bin/fish
 
 	cd ~/Desktop/MCDB-187AL/MCDB\ 187AL/
 
