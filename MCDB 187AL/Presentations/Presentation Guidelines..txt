@@ -1,0 +1,27 @@
+Presentation Guidelines
+
+1. Have pictures of IsoTopTier
+
+sequence pages (include blue graph)
+
+2. Have pictures of BLAST Search
+
+Result pages
+
+3. Have pictures of conserved
+
+domains.
+
+4. How do you determine function
+
+of gene?
+
+5. How do You Practice Structural Modeling?
+
+6. How do you use Multiple Sequence
+
+Alignment to check accuracy of Search Results
+
+7. How do you construct conserved domains?
+
+8. Do Augustus Predictions?
