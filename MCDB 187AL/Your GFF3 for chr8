@@ -1,0 +1,7 @@
+##gff-version 3
+##sequence-region chr8 1 65456833
+chr8	.	gene	757585	757997	.	+	.	owner=TANVEERASALIM@GMAIL.COM;ID=f92e6752-31a3-437a-880e-7d560b5da60a;date_last_modified=2018-04-13;Name=transcript2984519;date_creation=2018-04-13
+chr8	.	mRNA	757585	757997	.	+	.	owner=TANVEERASALIM@GMAIL.COM;Parent=f92e6752-31a3-437a-880e-7d560b5da60a;ID=5b83f6df-03c4-468c-979d-8b416eea653e;date_last_modified=2018-04-13;Name=transcript2984519-00001;date_creation=2018-04-13
+chr8	.	CDS	757828	757997	.	+	0	Parent=5b83f6df-03c4-468c-979d-8b416eea653e;ID=5b83f6df-03c4-468c-979d-8b416eea653e-CDS;Name=5b83f6df-03c4-468c-979d-8b416eea653e-CDS
+chr8	.	exon	757585	757997	.	+	.	Parent=5b83f6df-03c4-468c-979d-8b416eea653e;ID=1e231cf2-2f7e-4174-a4d4-00643bb21c18;Name=1e231cf2-2f7e-4174-a4d4-00643bb21c18
+###
