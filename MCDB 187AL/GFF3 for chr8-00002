@@ -1,0 +1,18 @@
+##gff-version 3
+##sequence-region chr8 1 65456833
+chr8	.	gene	49455025	49458016	.	-	.	owner=smccauley21@ucla.edu;ID=3632224d-ad39-45d0-b162-d168fadfb639;date_last_modified=2018-04-20;Name=chr8;date_creation=2018-04-06
+chr8	.	mRNA	49455025	49458016	.	-	.	owner=TANVEERASALIM@GMAIL.COM;Parent=3632224d-ad39-45d0-b162-d168fadfb639;ID=90be102e-b1a6-453a-9db3-dfa70ed4dcb7;date_last_modified=2018-04-11;Name=chr8-00002;date_creation=2018-04-06
+chr8	.	exon	49456586	49456715	.	-	.	Parent=90be102e-b1a6-453a-9db3-dfa70ed4dcb7;ID=78f7958a-bf43-400c-bd79-8e0848e26f31;Name=78f7958a-bf43-400c-bd79-8e0848e26f31
+chr8	.	CDS	49457326	49457461	.	-	0	Parent=90be102e-b1a6-453a-9db3-dfa70ed4dcb7;ID=90be102e-b1a6-453a-9db3-dfa70ed4dcb7-CDS;Name=90be102e-b1a6-453a-9db3-dfa70ed4dcb7-CDS
+chr8	.	CDS	49456586	49456715	.	-	2	Parent=90be102e-b1a6-453a-9db3-dfa70ed4dcb7;ID=90be102e-b1a6-453a-9db3-dfa70ed4dcb7-CDS;Name=90be102e-b1a6-453a-9db3-dfa70ed4dcb7-CDS
+chr8	.	CDS	49455389	49456073	.	-	1	Parent=90be102e-b1a6-453a-9db3-dfa70ed4dcb7;ID=90be102e-b1a6-453a-9db3-dfa70ed4dcb7-CDS;Name=90be102e-b1a6-453a-9db3-dfa70ed4dcb7-CDS
+chr8	.	exon	49455025	49456073	.	-	.	Parent=90be102e-b1a6-453a-9db3-dfa70ed4dcb7;ID=446b1023-4e36-46d0-82b3-01bf1e50500b;Name=446b1023-4e36-46d0-82b3-01bf1e50500b
+chr8	.	exon	49457326	49458016	.	-	.	Parent=90be102e-b1a6-453a-9db3-dfa70ed4dcb7;ID=2556ced0-92b6-4c2e-9f56-7ec847d58768;Name=2556ced0-92b6-4c2e-9f56-7ec847d58768
+chr8	.	mRNA	49455025	49458016	.	-	.	owner=smccauley21@ucla.edu;Parent=3632224d-ad39-45d0-b162-d168fadfb639;ID=bf188fb9-3064-46b8-b71d-0d255aacfb81;date_last_modified=2018-04-06;Name=chr8-00001;date_creation=2018-04-06
+chr8	.	exon	49457326	49458016	.	-	.	Parent=bf188fb9-3064-46b8-b71d-0d255aacfb81;ID=ad6e6c4a-dc54-4280-8407-b138e667a18e;Name=ad6e6c4a-dc54-4280-8407-b138e667a18e
+chr8	.	exon	49455025	49456073	.	-	.	Parent=bf188fb9-3064-46b8-b71d-0d255aacfb81;ID=f10f018d-8c7d-43d9-afcb-26ff3e811784;Name=f10f018d-8c7d-43d9-afcb-26ff3e811784
+chr8	.	exon	49456586	49456715	.	-	.	Parent=bf188fb9-3064-46b8-b71d-0d255aacfb81;ID=5d034a53-26e2-4d0a-b900-d5b6fd91f030;Name=5d034a53-26e2-4d0a-b900-d5b6fd91f030
+chr8	.	CDS	49457326	49457461	.	-	0	Parent=bf188fb9-3064-46b8-b71d-0d255aacfb81;ID=bf188fb9-3064-46b8-b71d-0d255aacfb81-CDS;Name=bf188fb9-3064-46b8-b71d-0d255aacfb81-CDS
+chr8	.	CDS	49456586	49456715	.	-	2	Parent=bf188fb9-3064-46b8-b71d-0d255aacfb81;ID=bf188fb9-3064-46b8-b71d-0d255aacfb81-CDS;Name=bf188fb9-3064-46b8-b71d-0d255aacfb81-CDS
+chr8	.	CDS	49455389	49456073	.	-	1	Parent=bf188fb9-3064-46b8-b71d-0d255aacfb81;ID=bf188fb9-3064-46b8-b71d-0d255aacfb81-CDS;Name=bf188fb9-3064-46b8-b71d-0d255aacfb81-CDS
+###
