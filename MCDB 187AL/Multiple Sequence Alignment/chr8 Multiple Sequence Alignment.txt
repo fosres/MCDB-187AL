@@ -1,0 +1,56 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Juglans_regia_English_walnut              MGRAPCCDKRGLKKGPWTPEEDEILVEYIKKNGGHGSWRSLPKLAGLLRCGKSCRLRWTN	60
+Quercus_lobata_Valley_Oak                 MGRAPCCDKKGLKKGPWTPEEDQILVDFIKKNGGHGSWRSLPKLAGLLRCGKSCRLRWTN	60
+Quercus_suber_Cork_Oak                    MGRAPCCDKKGLKKGPWTPEEDQILVDFIKKNGGHGSWRSLPKLAGLLRCGKSCRLRWTN	60
+Populus_trichocarpa_Black_Cottonwood      MGRTPCCDKKGLKKGPWTPEEDDLLVTYIKKN-GHGSWRSLPKLAGLLRCGKSCRLRWTN	59
+Herrania_umbratica                        MGRTPCCDRKGLKKGPWAPEEDEILVNYIKKH-GHGSWRSLPKLAGLLRCGKSCRLRWTN	59
+Theobroma_cacao                           MGRTPCCDRKGLKKGPWAPEEDEILVNYIKKH-GHGSWRSLPKLAGLLRCGKSCRLRWTN	59
+Hevea_brasiliensis                        MGRTPCCDKKGLKKGPWTPEEDEILVRYINKN-GHGSWRSLPKLAGLLRCGKSCRLRWTN	59
+                                          ***:****::*******:****::** :*:*: ***************************
+
+Juglans_regia_English_walnut              YLRPDIKRGPFTQEEEKLVVQLHGILGNRWASIAAQLPGRTDNEIKNLWNTHLKKRLVCM	120
+Quercus_lobata_Valley_Oak                 YLRPDIKRGPFTQEEEKLVIQLHGILGNRWATIASQLPGRTDNEIKNLWNTHLKKRLMGM	120
+Quercus_suber_Cork_Oak                    YLRPDIKRGPFTQEEEKLVIQLHGILGNRWATIASQLPGRTDNEIKNLWNTHLKKRLMGM	120
+Populus_trichocarpa_Black_Cottonwood      YLRPDIKRGPFTLEEEKLVIQLHGILGNRWAAIASQLPGRTDNEIKNLWNTHLKKRLLCL	119
+Herrania_umbratica                        YLRPDIKRGPFTLEEEKLVIQLHGILGNRWAAIASQLPGRTDNEIKNLWNTHLKKRLVCM	119
+Theobroma_cacao                           YLRPDIKRGPFTLEEEKLVIQLHGILGNRWAAIASQLPGRTDNEIKNLWNTHLKKRLVCM	119
+Hevea_brasiliensis                        YLRPDIKRGPFTLEEEKLVIQLHGILGNRWAAIASQLPGRTDNEVKNLWNTHLKKRLLCM	119
+                                          ************ ******:***********:**:*********:************: :
+
+Juglans_regia_English_walnut              GLDPQTHEPVNSCSTTIKAPASPTTRHMAQWESARLEAEARLSRESSLFHPNPVGGTDSD	180
+Quercus_lobata_Valley_Oak                 GLDPQTHELISSCSTTVKAPASPITRHMAQWESARLEAEARLSRESSLFNPIPLGKTDSD	180
+Quercus_suber_Cork_Oak                    GLDPQTHELITSCSTTVKAPASPITRHMAQWESARLEAEARLSRESSLFNPIPLGKTDSD	180
+Populus_trichocarpa_Black_Cottonwood      GLDPQTHEPFSSRGPVNKGPASPATRHMAQWESARLEAEQRLSRESSLFLPPMVEKIDCD	179
+Herrania_umbratica                        GLDPQTHEPFTPCGPTTAAPTSPATRHMAQWESARLEAEARLSRESLLFSSPPLGKPDSD	179
+Theobroma_cacao                           GLDPQTHEPFTPCGPTTAAPTSPATRHMAQWESARLEAEARLSRESLLFSSPPLGKPDSD	179
+Hevea_brasiliensis                        GLDPQTHEPFTSCGPAIKTPASPATRHMAQWESARLEAEARLSRESSLFNPPTPGKTDSD	179
+                                          ******** ..  . .   *:** *************** ****** **        *.*
+
+Juglans_regia_English_walnut              YFLRIWNSEVGESFRKFSMGD-KTLCQSPVS--QASSSTKCGSMSAITTEICPILGGSSI	237
+Quercus_lobata_Valley_Oak                 YFLRIWNSEIGESFRKFNRED-KTACQSPVS--QASSSTKCGSISAITTEISPILLGSSI	237
+Quercus_suber_Cork_Oak                    YFLRIWNSKIGESFRKFNRED-KTACQSPVS--QASSSTKCGSISAITTEISPILLGSSI	237
+Populus_trichocarpa_Black_Cottonwood      HFLRIWNSEVGESFRRINMGDNKTACQSPVS--QASSSTKCGSISAITADIIPNLSRSPA	237
+Herrania_umbratica                        YFLRLWNSEVGESFRKLNRED-KTACQSPIS--QASSSTKCGSVSAVTIDICPNIAGSST	236
+Theobroma_cacao                           YFLRLWNSEVGESFRKLNRED-KTACQSPIS--QASSSTKCGSVSAVTIDICPNIAGSST	236
+Hevea_brasiliensis                        YFLRMWNSEVGESFRKFNRGD-KTTCQSPASASQASSSTKCGSFSAVTADISPNLAGYST	238
+                                          :***:***::*****::.  * ** **** *  **********.**:* :* * :     
+
+Juglans_regia_English_walnut              AGSNQNEDTECKSCKSYTEEMMAASDCSSSDELEDSSENALQLLLDFPINNDMSFLEEDL	297
+Quercus_lobata_Valley_Oak                 AGSNQNEDNECKSCKSYPEEMMVGYDTSSSDELEDSSDSALQMLLDFPINNDMSFLEEDI	297
+Quercus_suber_Cork_Oak                    AGSNQNEDNECKSCKSYPEEMMVGYDTSSSDELEDSSDSAFQMLLDFPINNDMSFLEEDI	297
+Populus_trichocarpa_Black_Cottonwood      TASNQNEDMEWKSPKSYAEDVLAGSDSS-SAELEDLTDSTLQLLLDFPINNDMSFLDKNI	296
+Herrania_umbratica                        PASNQIEDTACKSFKSCTEDPVDASDSSCSNESEDSSDTALQLLLDFPINNDMSFLENV-	295
+Theobroma_cacao                           PASNQIEDTACKSFKSCTEDPVDASDSSCSNESEDSSDTALQLLLDFPINNDMSFLENV-	295
+Hevea_brasiliensis                        TASNQNEDTECKSFKSYAEDVNAGSDSSSSVELEDSSDSTLQLLLDFPINNDMSFLEENV	298
+                                           .*** **   ** **  *:   . * * * * ** ::.::*:*************::  
+
+Juglans_regia_English_walnut              DMYALPPAMLTESSFICHL------	316
+Quercus_lobata_Valley_Oak                 DKYSTPSAMLTENSFICPL------	316
+Quercus_suber_Cork_Oak                    NKYSTPPAMLTENSFICPL------	316
+Populus_trichocarpa_Black_Cottonwood      DSYATSSAMLTGPSMICPL------	315
+Herrania_umbratica                        DAYATSAAMLTDTSFISPSEGYLKA	320
+Theobroma_cacao                           DTYATSHAMLTDTSFISPSEGYLKA	320
+Hevea_brasiliensis                        DSIASYSAMQ---------------	308
+                                          :  :   **                
