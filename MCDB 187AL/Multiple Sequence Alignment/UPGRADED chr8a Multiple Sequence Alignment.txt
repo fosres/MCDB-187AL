@@ -1,3 +1,5 @@
+UPGRADED chr8a Multiple Sequence Alignment.txt
+
 CLUSTAL O(1.2.4) multiple sequence alignment
 
 
