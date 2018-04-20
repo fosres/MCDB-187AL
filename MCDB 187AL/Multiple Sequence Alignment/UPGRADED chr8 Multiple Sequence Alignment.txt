@@ -1,0 +1,83 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Populus_euphratica_Euphrates_Poplar       MGTILKPVAAATLFLCFLLLPMISSTLSPPNDGLIRIGLKKRKYERNNRLAAKLESKEGD	60
+Populus_trichocarpa_Black_Cottonwood      MGTILKPVAAATLFLCFLLLPMISSALSPPNDGLIRIGLKKRKYERNNRLAAKLESKEGE	60
+Pyrus_x_bretschneideri_pearple            METKLKSVT-AMLFLCFLLFPLV---FCESNDGLLRIGLKKRKLDQNNRVAAQIDSKEGE	56
+Juglans_regia_English_Walnut              MGTKLKPVV-ASFFFCLLLFPLV---FSASNGGLVRVGLKKRKFDQNDRIAAQLESKEGK	56
+Castanea_mollissima_Chinese_Chestnut      MGTKLKTVV-ATFFLCFLLFPLV---FSASNGGLVRIGLKKMKLDKNNRVAAQLESKDGE	56
+Quercus_lobata_Valley_Oak                 ------------------------------------------------------------	0
+Quercus_suber_Cork_Oak                    MGNKLKTVV-ATFFLCFLLFPLV---FSASNGGLVRIGLKKTKLDKNNRVAAQLESKDGE	56
+                                                                                                      
+
+Populus_euphratica_Euphrates_Poplar       SIK----KYHLLRNLGGDAEDTDIVSLKNYMDAQYFGEIGIGTPPQKFTVIFDTGSSNLW	116
+Populus_trichocarpa_Black_Cottonwood      SIK----KYHLLRNLGGDAEDTDIVSLKNYMDAQYFGEIGIGTPPQKFTVIFDTGSSNLW	116
+Pyrus_x_bretschneideri_pearple            SLRAVLQKYRLGGN-LADSQDIDIVSLKNYMDAQYFGEIGIGTPPQKFTVIFDTGSANLW	115
+Juglans_regia_English_Walnut              AWKASIRKYHLRGN-SGDPEDTDIVALKNYMDAQYFGEIGIGTPPQKFTVIFDTGSSNLW	115
+Castanea_mollissima_Chinese_Chestnut      VRSASIRKYYLRGN-SGDPEDIDIVSLKNYMDAQYFGEIGVGTPPQKFTVIFDTGSSNLW	115
+Quercus_lobata_Valley_Oak                 ------------------------------------------------------------	0
+Quercus_suber_Cork_Oak                    VRSASIRKYYLRGN-SGDPEDIDIVSLKNYMDAQYFGEIGVGTPPQKFTVIFDTGSSNLW	115
+                                                                                                      
+
+Populus_euphratica_Euphrates_Poplar       VPSSKCYFSVACYFHSKYKSSHSRTYKENGKSAEIHYGTGAISGFFSQDHVKVGDLVVKN	176
+Populus_trichocarpa_Black_Cottonwood      VPSSKCYFSVACYFHSKYKSSHSRTYKENGKSAEIHYGTGAISGFFSQDHVKVGDLVVKN	176
+Pyrus_x_bretschneideri_pearple            VPSSKCYFSIACYLHPKYKSSSSSTYNKNGKPAAIQYGTGAISGFFSEDHVTVGDLVVKD	175
+Juglans_regia_English_Walnut              VPSSKCYFSVACYFHSKYKSSSSSTYKKNGKPADIHYGTGAISGYFSQDHVKVGDLVVEG	175
+Castanea_mollissima_Chinese_Chestnut      VPSSKCYFSVACYFHSKYKSSSSSTYKKNGKPADIHYGTGAISGYFSQDHVKVGDLVVKN	175
+Quercus_lobata_Valley_Oak                 ------------------------------------------------------------	0
+Quercus_suber_Cork_Oak                    VPSSKCYFSVACYFHSKYKSSSSSTYKKNGKPADIHYGTGAISGYFSQDHVKVGDLVVKN	175
+                                                                                                      
+
+Populus_euphratica_Euphrates_Poplar       QEFIEATREPSVTFLVAKFDGILGLGFQEISVGKAVPVWYNMVDQGLVKEPVFSFWFNRN	236
+Populus_trichocarpa_Black_Cottonwood      QEFIEATREPSVTFLVAKFDGILGLGFQEISVGKAVPVWYNMVEQGLVKEPVFSFWFNRN	236
+Pyrus_x_bretschneideri_pearple            QEFIEATKEPGVTFVVAKFDGILGLGFQEISVGNAVPVWYNMVNQGLLKEPVFSFWFNRN	235
+Juglans_regia_English_Walnut              QEFIEATREPSITFLVAKFDGILGLGFQEISVGNAVPVWYNMVNQGLVKEPVFSFWFNRN	235
+Castanea_mollissima_Chinese_Chestnut      QEFIEATREPSITFLVAKFDGILGLGFKEISVGNAVPVWYNMVKQGLVKEPVFSFWFNRN	235
+Quercus_lobata_Valley_Oak                 ------------------------------------------------------------	0
+Quercus_suber_Cork_Oak                    QEFIEATREPSITFLVAKFDGILGLGFKEISVGNAVPLWYNMVKQGLVKEPVFSFWFNRN	235
+                                                                                                      
+
+Populus_euphratica_Euphrates_Poplar       ADEKEGGEIVFGGVDPDHYKGEHTYVPVTQKGYWQFDMGDVLIGGQTSGFCASGCAAIAD	296
+Populus_trichocarpa_Black_Cottonwood      ADEKEGGEIVFGGVDPDHYKGEHTYVPVTQKGYWQFDMGDVLIGGQTSGFCASGCAAIAD	296
+Pyrus_x_bretschneideri_pearple            ADEEEGGEIVFGGVDPNHYKGEHTYVPVTQKGYWQFDMGDVMIDGQTTGFCASGCSAIAD	295
+Juglans_regia_English_Walnut              ADEEEGGEIVFGGVDPNHYKGEHTYVPVTQKGYWQFDMGDVMIDGETTGFCGSGCSAIAD	295
+Castanea_mollissima_Chinese_Chestnut      TDEEEGGEIVFGGVDPNHYKGKHTYVPVTQKGYWQFDMGDVLIDGQTTGFCARGCSAIAD	295
+Quercus_lobata_Valley_Oak                 -------------------------------------MGDVLIDGQTTGFCASGCSAIAD	23
+Quercus_suber_Cork_Oak                    TDEEEGGEIVFGGVDPNHYKGKHTYVPVTQKGYWQFDMGDVLIDGQTTGFCASGCSAIAD	295
+                                                                               ****:*.*:*:***. **:****
+
+Populus_euphratica_Euphrates_Poplar       SGTSLLAGPTTIITEVNHAIGATGVVSQECKEVVAQYGDTIIEMLLAKDQPQKICSQIGL	356
+Populus_trichocarpa_Black_Cottonwood      SGTSLLAGPTTIITEVNHAIGATGVVSQECKAVVAQYGDTIMEMLLAKDQPQKICAQIGL	356
+Pyrus_x_bretschneideri_pearple            SGTSLLVGPTTIITELNHAIGASGIVSQECKTVVAEYGETIIERILAKDQPAKICSQIGL	355
+Juglans_regia_English_Walnut              SGTSLLAGPTTIITQVNHAIGATGVVSQECKAVVAEYGETIIKMLLEKDQPQKICAQIGL	355
+Castanea_mollissima_Chinese_Chestnut      SGTSLLAGPTTIITEVNHAIGATGVVSQECKAVVAEYGETIIKMLLEKDQPMKICSQIGL	355
+Quercus_lobata_Valley_Oak                 SGTSLLAGPTTIITEVNHAIGATGVVSQECKAVVAEYGETIIKMLLEKDQPMKICSQIGL	83
+Quercus_suber_Cork_Oak                    SGTSLLAGPTTIITEVNHAIGATGVVSQECKAVVAEYGETIIKMLLEKDQPMKICSQIGL	355
+                                          ******.*******::******:*:****** ***:**:**:: :* **** ***:****
+
+Populus_euphratica_Euphrates_Poplar       CTFDGTRGVSVGIESVVNEHAQKASDGFHDAMCSTCEMAVVWMQNQLKQNQTQERILDYV	416
+Populus_trichocarpa_Black_Cottonwood      CTFDGTRGVSMGIESVVNEHAQKASDGFHDAMCSTCEMAVVWMQNQLKQNQTQERILDYV	416
+Pyrus_x_bretschneideri_pearple            CSFDGTHGVSIGIKSVVEN-THKVSGDLSDATCSACEMTVVWMQNQLKQNQTQERILDYV	414
+Juglans_regia_English_Walnut              CTFDGTRDVSIGIESVVDDDTRKASGGLRDTMCSTCEMAVVWMQNQLKQNQTQDRIINYA	415
+Castanea_mollissima_Chinese_Chestnut      CTFDGVRGVSMDIESVVD-NTRKASNGLRDAMCSTCEMTVVWMQNQLKQNQTQDRILTYV	414
+Quercus_lobata_Valley_Oak                 CTFDGTRGVSMDIESVVD-NTRKASNGLRDAMCSTCEMTVVWMQNQLKQNQTQDRILTYV	142
+Quercus_suber_Cork_Oak                    CTFDGTRGVSMDIESVVD-NTRKASNGLRDAMCSTCEMTVVWMQNQLKQNQTQDRILTYV	414
+                                          *:***.:.**:.*:***:  ::*.*..: *: **:***:**************:**: *.
+
+Populus_euphratica_Euphrates_Poplar       NELCERLPSPMGESAVDCDGLSSMPNVSFTIGGRVFDLSPEQYVLKVGEGDVAQCISGFT	476
+Populus_trichocarpa_Black_Cottonwood      NELCERLPSPMGESAVDCDGLSSMPNVSFTIGGRVFELSPEQYVLKVGEGDVAQCISGFT	476
+Pyrus_x_bretschneideri_pearple            NQLCDRLPSPMGESAVDCAGLSSMPNVSFTIGGRTFDLTPEQYVLKVGEGDAAQCISGFT	474
+Juglans_regia_English_Walnut              NDLCDRLPSPMGESAVDCASLSSMPNVSFTIGGRVFDLRPEQYVLKVGEGDAAQCISGFT	475
+Castanea_mollissima_Chinese_Chestnut      NELCDRLPSPMGESAVDCGSLSSLPNVSLTIGGRVFDLSPEQYVLKVGEGEAAQCISGFT	474
+Quercus_lobata_Valley_Oak                 NELCDRLPSPMGESAVDCNSLSSLPNVSLTIGGRVFDLSPEQYVLKVGEGEAAQCISGFT	202
+Quercus_suber_Cork_Oak                    NELCDRLPSPMGESAVDCGSLSSLPNVSLTIGGRVFDLSPEQYVLKVGEGEAAQCISGFT	474
+                                          *:**:************* .***:****:*****.*:* ***********:.********
+
+Populus_euphratica_Euphrates_Poplar       ALDVPPPRGPLWILGDVFMGRFHTVFDYGNMRVGFAEAS	515
+Populus_trichocarpa_Black_Cottonwood      ALDVPPPRGPLWILGDVFMGSFHTVFDYGNMRVGFAEAT	515
+Pyrus_x_bretschneideri_pearple            ALDVPPPRGPLWILGDVFMGRYHTVFDYGNERIGFAEAA	513
+Juglans_regia_English_Walnut              ALDVPPPRGPLWILGDVFMGRYHTVFDYGNQRIGFAEAA	514
+Castanea_mollissima_Chinese_Chestnut      ALDVPPPRGPLWILGDVFMGRYHTVFDYGNQRVGFAEAA	513
+Quercus_lobata_Valley_Oak                 ALDVPPPRGPLWILGDVFMGRYHTVFDYGNQRVGFAEAA	241
+Quercus_suber_Cork_Oak                    ALDVPPPRGPLWILGDVFMGRYHTVFDYGNQRVGFAEAA	513
+                                          ******************** :******** *:*****:
