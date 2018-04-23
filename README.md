@@ -14,7 +14,7 @@ file:
 
 #!/bin/bash
 
-	#Download everything from GitHub to local repostory
+	#Download everything from GitHub to local repository
 
 	git pull
 
