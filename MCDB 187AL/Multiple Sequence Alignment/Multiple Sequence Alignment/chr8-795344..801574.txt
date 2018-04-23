@@ -1,0 +1,66 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+charcoal-tree_Trema_orientalis                            ------------------------------------------------------------	0
+The_Australian_Pitcher_Plant_Cephalotus_follicularis      MGEPEA--DRQTPLLHTKQEDSHLKRTGTVWTAVAHIITGVIGSGVLSLAWCMAQLGWIA	58
+Cork_Oak_Quercus_suber                                    MGEEETDNQIQAPLLQTQAAQRPLKRTGNLRTAIAHIITGVIGSGVLSLAWSMAQLGWIA	60
+Parasponia_andersonii                                     ------------------------------------------------------------	0
+Clementine_Citrus_clementina                              ------------------------------------------------------------	0
+Sweet_Orange_Citrus_sinensis                              ------------------------------------------------------------	0
+                                                                                                                      
+
+charcoal-tree_Trema_orientalis                            ------------------------------------------------------------	0
+The_Australian_Pitcher_Plant_Cephalotus_follicularis      GPLSMLAFAAVTLVSTYLLCDSYRTPDPEYGPLRSPSYLQAVHIHLGPKNARVCSICVQV	118
+Cork_Oak_Quercus_suber                                    GPLAMLFFAVVTVVATFLLCNCYRSPDPEYGPGRNRSYLEAVDMNLGKRNAWVCGFFVHF	120
+Parasponia_andersonii                                     ------------------------------------------------------------	0
+Clementine_Citrus_clementina                              ------------------------------------------------------------	0
+Sweet_Orange_Citrus_sinensis                              ------------------------------------------------------------	0
+                                                                                                                      
+
+charcoal-tree_Trema_orientalis                            ------------------------------------------------------------	0
+The_Australian_Pitcher_Plant_Cephalotus_follicularis      GLYGIGIAYTVTSAISMRAIQKSNCYHKEGHEAACDYKDTVYMLLFGTVQIVVSQIPNFH	178
+Cork_Oak_Quercus_suber                                    SLFGTGIAYTITSAISMRAIQKSNCYHREGHEAACSFGDTSYMLLFGVVQIVLSQTPDFH	180
+Parasponia_andersonii                                     ------------------------------------------------------------	0
+Clementine_Citrus_clementina                              ----------MTTSTSMRAIQKSNCYHREGHNAPCAYGDTKHMLLFGAVQVVMSQIPDFH	50
+Sweet_Orange_Citrus_sinensis                              ----------------MRAIQKSNCYHREGHNAPCAYGDTKHMLLFGAVQVVMSQIPDFH	44
+                                                                                                                      
+
+charcoal-tree_Trema_orientalis                            --------------------------CNEDHGYVEGSIRGISTSNATEKVWLISQALGDV	34
+The_Australian_Pitcher_Plant_Cephalotus_follicularis      NIQWLSIIAAIMSFTYSSIGFALGLAKVIGDGYIKGNIGGVSTSSATDKMWLVAQSLGDI	238
+Cork_Oak_Quercus_suber                                    NIEWLSILAAIMSFTYSFIGLGLGFAKVVGDGYVKGSIGGISTSSAADKIWLVAQAIGDI	240
+Parasponia_andersonii                                     ------------------------------------------------------------	0
+Clementine_Citrus_clementina                              NMEWLSVIAAIMSFAYSFIGFGLGFAKVIENGRIKGSIAGVPTANLADKLWLAFQALGDI	110
+Sweet_Orange_Citrus_sinensis                              NMEWLSVIAAIMSFAYSFIGFGLGFAKVIENGRIKGSIAGVPTANLADKLWLAFQALGDI	104
+                                                                                                                      
+
+charcoal-tree_Trema_orientalis                            AFAYPFSLILFEIQDTLESPPPESQTMKKASIISIVVTTMFYLLCGGSGYAAFGDHTPGN	94
+The_Australian_Pitcher_Plant_Cephalotus_follicularis      AFAYPYSLILLEIQDTLKSPPPENHTMKKASTIAITVTTIFYLCCGGFGYAAFGDETPGN	298
+Cork_Oak_Quercus_suber                                    AFAYPYSLIVIEIQDTLKSPPPENQTMKKASTIAIVVTTLFYLSCGGFGYAAFGDDTPGN	300
+Parasponia_andersonii                                     ------------------------------------------------------------	0
+Clementine_Citrus_clementina                              AFAYPYSIILLEIQDTLKSPPPENKTMKMASMISIFITTFFYLCCGCFGYAAFGNDTPGN	170
+Sweet_Orange_Citrus_sinensis                              AFAYPYSIILLEIQDTLKSPPPENKTMKMASMISIFITTFFYLCCGCFGYAAFGNDTPGN	164
+                                                                                                                      
+
+charcoal-tree_Trema_orientalis                            LMTGFGFYEPYWLIDLANACVVLHLVGGYQIYSQPLFANVEQWLAEKLPHRGVLNKDYRL	154
+The_Australian_Pitcher_Plant_Cephalotus_follicularis      LLTGFGFYEPYWLIDFANACIVLHLLGGYQVYSQPLFANVEQWISEKYPNSGFVNHNFSL	358
+Cork_Oak_Quercus_suber                                    LLTGFGFYEPYWLIDFANACIVLHLLGGYQVYSQPLFANVERWFADKFPSSGFVNDNYTL	360
+Parasponia_andersonii                                     -----------------------PTLFIYQIYSQPVFAVIERWFSGKFPDSGFVNNFYSI	37
+Clementine_Citrus_clementina                              LLTGFGFYEPYWLIDFANACIVLHLVGGYQIYSQPVFAFVERWFTRKYPSSGFVNNFYTF	230
+Sweet_Orange_Citrus_sinensis                              LLTGFGFYEPYWLIDLANACIVLHLVGGYQIFSQPVFAFVERWFTRKYPSSGFVNNFYTF	224
+                                                                                   :  **::***:** :*:*:: * *  *.:*. : :
+
+charcoal-tree_Trema_orientalis                            KLPLLAAFRLNPLRLCFRSAYVVTTTVIAIVFPYFNQILGVLGGINFWPLTIYFPVEMYL	214
+The_Australian_Pitcher_Plant_Cephalotus_follicularis      KLPLSPALRLNLLRLCFRSVYVVSTTAIAMVFPYFNEVIGVLGGINFWPLTIYFPVEMYL	418
+Cork_Oak_Quercus_suber                                    KLPLLPEIRLNLLRLCFRSIYVVSTTAIAMLFPYFNQVLGVLGALFFWPLSIYFPVEMYF	420
+Parasponia_andersonii                                     KLPMLPVLQLNPLRLCFRTAYVVSTTGIAMLFPYFNQVLGVLGALNFWPLAIYFPVEMYF	97
+Clementine_Citrus_clementina                              KLPLLPPLRVNILRLCFRTAYVVSTTAVAIIFPYFNQVLGVLGALNFWPLAIYFPVEMYF	290
+Sweet_Orange_Citrus_sinensis                              KLPLLPPLRVNILRLCFRTAYVVSTTAVAIIFPYFNQVLGVLGALNFWPLAIYFPVEMYF	284
+                                                          ***:   :::* ******: ***:** :*::*****:::****.: ****:********:
+
+charcoal-tree_Trema_orientalis                            KQSDIEAWTAKWIMLRTFSAIFLVVTVFALIGSIEGLISAKLS	257
+The_Australian_Pitcher_Plant_Cephalotus_follicularis      KKMKIEAWTRKWVVLHVFSFLGLLVAVFATIGSIEGLVAAKSS	461
+Cork_Oak_Quercus_suber                                    KQMNIEAWTTKWILLRTFSMFCLLVTLFSLIGSIEGLITAKLS	463
+Parasponia_andersonii                                     VQKKIGAWTRKWIVLRTFSFICFLVTVVGLIGSLEGLISAKFS	140
+Clementine_Citrus_clementina                              VQKKIGAWTRKWIVLRTFSFICLLVTIIGLIGSIEGLISAKLG	333
+Sweet_Orange_Citrus_sinensis                              VQKKIGAWTRKWIVLRTFSFICLLVTIIGLIGSIEGLISAKLG	327
+                                                           : .* *** **::*:.** : ::*::.. ***:***::** .
