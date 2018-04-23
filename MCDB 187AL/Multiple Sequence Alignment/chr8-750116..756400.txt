@@ -1,0 +1,281 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Herrania_umbratica                               MHLYNAWLPPPVAEETKKEKESFSRVVSSVKNLYRPDDPESVYSTLKWISVIDLFIKAKS	60
+Cocoa_Tree_Theobroma                             ------------------------------------------------------------	0
+wild_strawberry_Fragaria_vesca_subsp._vesca      MHLYNAWLPPPVAEESKKEADSFSRVVSSVKSSYRSDDPDSVYSTLKWVSVIDLFVKAKS	60
+charcoal_tre_Trema_orientalis                    MHLYNAWLPGPVAQDTKREKDSFARVVTSVKSSYTPDDPDSVYSTLKWVSVIDLFIKAKS	60
+English_walnut_Juglans_regia                     MHLYNAWLPPPVAEQTKREKESFSRLVRTLEDFSQSDDPDSVYSTLTWIPLIKTFIVAES	60
+749cc0cf-94ce-46e8-ad7b-691878547166             ------------------------------------------------------------	0
+Cork_Oak_Quercus                                 MHLYNAWLPPHVAEETKKEKESFARVVRTVNELYRPDDPDSVYATLTWIPVIKLFIDAES	60
+                                                                                                             
+
+Herrania_umbratica                               DISLEDVDSVVEIGLELFHKSQNKLYAQVRWGNILVRLLNKYRKKLSLKVQWRPLHDTLI	120
+Cocoa_Tree_Theobroma                             ------------------------------------------------------------	0
+wild_strawberry_Fragaria_vesca_subsp._vesca      EVAMEDVTGLIEFGLELFRVSDNKLYAQVRWGNILVKLLNKYRKKLSLKVKWRPLYDTLI	120
+charcoal_tre_Trema_orientalis                    EVSLEDVITIVEVGLELFHISENKLYAQVRWGNVLVRILNKYRKKLSLKVEWRPFYDTLI	120
+English_walnut_Juglans_regia                     DVALEDVGTLVKIGLEFFEKSQNKLYAQAKWGKILMLLLSRYRKKLSLKIQWRPLYDALI	120
+749cc0cf-94ce-46e8-ad7b-691878547166             ------------------------------------------------------------	0
+Cork_Oak_Quercus                                 EVALEDVDTLVKIGLELFHVSQNNLHAQVKWGNILVKLFNKYHKKLSLKVQWRPFYDTLI	120
+                                                                                                             
+
+Herrania_umbratica                               HTHFTRNTGPEGWRLRQRHFETVTSLVRSCRRFFPAGSASEIWFEFRSLLENPWHNATFE	180
+Cocoa_Tree_Theobroma                             ------------------------------------------------------------	0
+wild_strawberry_Fragaria_vesca_subsp._vesca      HTHFSRNTGPEGWRLRQRHFEATTSLVRSCRKFFPQGSAVEIWSEFRSLLENPWHNSAFE	180
+charcoal_tre_Trema_orientalis                    HTHFTRNTGPEGWRLRQRHFEMITSLVRSCRRFFPPGSAFEIWSEFRSLLENPWHNSTFE	180
+English_walnut_Juglans_regia                     ITHFTRNTGPEGPRLKQRHFETITSLVQSCRRFFPPGSASEIWSEFRSLVENPWHNSSLE	180
+749cc0cf-94ce-46e8-ad7b-691878547166             ------------------------------------------------------------	0
+Cork_Oak_Quercus                                 STHFTRNPGPEGLRLKLRHFETITSLVQSCRRFFPPGSAFDIWSEFRSLVENPWNNSSFE	180
+                                                                                                             
+
+Herrania_umbratica                               GAGFVRLFLPTNSDNQDFFSDNWIRECMELWDSIPNCQFWNSQWTAVMARVVKNYKFINW	240
+Cocoa_Tree_Theobroma                             ---------------------------MELWDSIPNCQFWNGQWTAVMARVVKNYKFINW	33
+wild_strawberry_Fragaria_vesca_subsp._vesca      GSGFVRLFLPTNSENQEFFTHDWIKELMHLWDSIPNCQFWNSQWTAIIARVVKNYRRIDW	240
+charcoal_tre_Trema_orientalis                    GSGFVRLFLPTNSDNQDFFSEDRVKEFIDLWESIPNCQFWNSQWVAIIARVIKNYNFIDW	240
+English_walnut_Juglans_regia                     GSGFLRLFLPTNLDNWDFFSCDRIKQWIDLWDSIPNCHFWNCQWAGVIARVIKNCKFVDW	240
+749cc0cf-94ce-46e8-ad7b-691878547166             ------------------------------------------------------------	0
+Cork_Oak_Quercus                                 GSGFVRLFLPTNLDNQDFYSCEWIKECLNLWDSIPNCQFWNCQWAGVIARTVKNCNFIDW	240
+                                                                                                             
+
+Herrania_umbratica                               ECFLPTLFTRFLNMFEVPVASGSGSYPFSVDVPRYTRFLFSNKTVTPAKAIAKSVVYLLK	300
+Cocoa_Tree_Theobroma                             ECFLPTLFTRFLNMFEVPVASGSGSYPFSVDVPRNTRFLFSNKTVTPAKAIAKSVVYLLK	93
+wild_strawberry_Fragaria_vesca_subsp._vesca      EGYLPTLFTRYLNMFEVPVANGSGSYPFSVDVPRNTRFLFSNRTVTPAKGIAKSIVYLLK	300
+charcoal_tre_Trema_orientalis                    ESFLPMLFNRYLNMFEVPVANGSGSYPFSVDVPRNTRFLFSNRTMTPAKAIAKSIVYLLK	300
+English_walnut_Juglans_regia                     ECFLPTLFIKYLNMFEVPVANRSESHPFPLDVPKNIRFLFSNSTVSLVKAIAKSIVYLLK	300
+749cc0cf-94ce-46e8-ad7b-691878547166             ------------------------------------------------------------	0
+Cork_Oak_Quercus                                 ECFLPTLFSRFLNMFEVPVANGLESYPFPLGVPKNTSFLFSNKTVTRMKAIAKSIVYLLK	300
+                                                                                                             
+
+Herrania_umbratica                               PGSMAQKHFEILVNLLEQYYHPSNGGRWTYSLERFLLYLVITFQKRLQHEQQNTDNDSQA	360
+Cocoa_Tree_Theobroma                             PGSMAQEHFEKLVNLLEQYYHPSNGGRWTYSLERFLLYLVITFQKRLQHEQQNTDNDSQA	153
+wild_strawberry_Fragaria_vesca_subsp._vesca      PGSSVLEHFEKLVNLLEQYYHPSNGGRWTYSLERFLLHLVISFQKRLQNEQLKVNKNMLD	360
+charcoal_tre_Trema_orientalis                    PGGSIQEHFQKLVNLLEQYYHPSNGGRWTYSLERFLMHLVISLQKRLQHEQLNTCAN---	357
+English_walnut_Juglans_regia                     PHSAALAHLEKIINLLEQYYHPSNGGSWTYSLACFLIHLVIQFQKRLKYEQQNINDCGQA	360
+749cc0cf-94ce-46e8-ad7b-691878547166             ------------------------------------------------------------	0
+Cork_Oak_Quercus                                 PHGSAQEQLETFINLLEQYYHPSNGGQWTYSLERFLLHLVTQFKKRLKHEQQNPNNSRRA	360
+                                                                                                             
+
+Herrania_umbratica                               ELYLGQLERSAFVDVLLRLIDRGQYSKNEHLSETVAAATSILSYVEPSRVLPFLASRFHM	420
+Cocoa_Tree_Theobroma                             ELYLGKLERSAFVNVLLRLIDRGQYSKNEHLSETVAAATSILSYVEPSLVLPFLASRFHM	213
+wild_strawberry_Fragaria_vesca_subsp._vesca      EQYLGRSERQFFVKVVLKLIDRGQYSKNEHLSETVAAATSILSYVEPSLILPFVASRFHM	420
+charcoal_tre_Trema_orientalis                    --SLGRPEWTSFVNVLLKLIDRGQYSKNEHLSETVAAATSILSYVEPLLVLPFVASRFHM	415
+English_walnut_Juglans_regia                     ELYLGGSERTFFVNMVLNLIDRGQYSKNNDLSATVAAAISILSYVEPSLVLPFVASRYYI	420
+749cc0cf-94ce-46e8-ad7b-691878547166             ------------------------------------------------------------	0
+Cork_Oak_Quercus                                 ELCLGRSERTKFVNVVLKLIDRGQYSKDKDLSETVAVATSILSFVEPSLVLPFVASRYYI	420
+                                                                                                             
+
+Herrania_umbratica                               ALETMTATHQLKTAVMSVAFAGRSLFFTSVSNGSVKPVDLG--GGDDTFIDLLMISLSNA	478
+Cocoa_Tree_Theobroma                             ALETMTATHQLKTAVMSVAFAGRSLFFTSLSNGSVNPVDLG--GGDDTFIDLLMISLSNA	271
+wild_strawberry_Fragaria_vesca_subsp._vesca      ALETMTATHQLQVAVMSVAFVGRSLFLQSLSTSTVKPMDVDSGESGDEFIELLMVSLSNA	480
+charcoal_tre_Trema_orientalis                    ALETMTATHQLKIAVMSVAFVGRSLFLTSLSASAVKPVDHD---GGDEFIDLLMVSLSNA	472
+English_walnut_Juglans_regia                     ALETMTATHQLEIAVKSISFVTRSLLLTSLSPSSIKLVHLG---GGNEFIDLLTVSLSNA	477
+749cc0cf-94ce-46e8-ad7b-691878547166             ----MTATHQLEVAVMSIAYVGRSLLLTSISSSSINSVHLD---GGNVFINLLMVSLSNA	53
+Cork_Oak_Quercus                                 ALETMTATHQLEVAVMSIAYVGRSLLLTSISSSSINSVHLD---GGNVFINLLMVSLSNA	477
+                                                     *******: ** *:::. ***:: *:* .::: :. .   ..: **:** :*****
+
+Herrania_umbratica                               LLGMDANDPPKTLATMQLIGSIFSNMAMLDDNIDELSFMPMIRLSEWLDEFFCRLFSLLL	538
+Cocoa_Tree_Theobroma                             LLGMDANDPPKTLATMQLIGSIFSNMAMLDDNIDELSFMPMIRFSEWLDEFFCRLFSLLL	331
+wild_strawberry_Fragaria_vesca_subsp._vesca      LLGMDANDPPKTLATMQLIGSIFSNMSSLDDE---VSVMPMIRFSEWLDEFFCRLFSLLL	537
+charcoal_tre_Trema_orientalis                    LLGMDANDPPKTLATMQLIGSIFSNLALLNDNIDELPFMPIVRFSEWLDEFLCRLFSLLL	532
+English_walnut_Juglans_regia                     LLGLDANDPPKTLATMKLIASIFSNLDTLDDDVDVLSFMP-IRFSQWLDEFLSRLFCLLL	536
+749cc0cf-94ce-46e8-ad7b-691878547166             LLGMDANDPPKTLATMQLIGSIFSNLASLDDNIDGLLFMR-ISLSQWLDEFLSRLFSLLL	112
+Cork_Oak_Quercus                                 LLGMDANDPPKTLATMQLIGSIFSNLASLDDNIDGLLFMR-ISLSQWLDEFLSRLFSLLL	536
+                                                 ***:************:**.*****:  *:*:   : .*  : :*:*****:.***.***
+
+Herrania_umbratica                               HLEPSSVLNEGLHSSATSGTFLVEDGPYYYCMLEILLGRLSKQLYNQALKKISKFVRTNI	598
+Cocoa_Tree_Theobroma                             HLEPSSVLNEGLHSSATSGTFLVEDGPYYFCMLEILLGRLSKQLYNQALKKISKFVWTNI	391
+wild_strawberry_Fragaria_vesca_subsp._vesca      HLEPSSVTNEGLHSSATSGTFLVEDGPYYYCMLEILFGRLSKPLYNQALKKISKFVKTNI	597
+charcoal_tre_Trema_orientalis                    HLEPSSVVNEGLHSSATSGTFLVEDGPYYFCMIEIVLGRLSQPLFNQALKKVSKFVRTNI	592
+English_walnut_Juglans_regia                     YLEPSSVLNEGLYSPATSGTFLCENHSYYYCMLEILLGRLSESLYDQALRKISKFVKTNT	596
+749cc0cf-94ce-46e8-ad7b-691878547166             YLEPSSVLNEGLNSPATSGTFLVEYSSYYYCMLEIMLGRLSKSLYDQALRKISKFVKTNT	172
+Cork_Oak_Quercus                                 YLEPSSVLNEGLHSPATSGTFLVEYSSYYYCMLEIMLGRLSKSLYDQALRKISKFVKTNT	596
+                                                 :****** **** * ******* *   **:**:**::****: *::***:*:**** ** 
+
+Herrania_umbratica                               LPGAIAEVGLLCCSCVHSNPEEAVVHLVEPILSSVLSSLNGTPVTGFGGRGILDPSVSTK	658
+Cocoa_Tree_Theobroma                             LPGAIAEVGLLCCACVHSNPEEAVVHLVEPILSSVLSSLNGTPVTGFGGRGILDPSVSTK	451
+wild_strawberry_Fragaria_vesca_subsp._vesca      LPGAIAEVGLLCCACVYSNPEEAVTQLIEPILLSVISSLEGTPSTGFGGRGIRDASVSTK	657
+charcoal_tre_Trema_orientalis                    LPGAIAEVGLLCCACVHTNPEEAVTHLVEPTLLSVISSLKGIPATGFGGRGISDASVSTR	652
+English_walnut_Juglans_regia                     LPGSTEEVGLLCCACIHSNQEEGVNKLIEPLLLSVLSSLDDTPLMVF-EGEISTASMSIR	655
+749cc0cf-94ce-46e8-ad7b-691878547166             LPGAIEEVGLLCSACIHSNREEAVIHLIEPLLLSVINSLEDTPVMGFKEGEISKASISIK	232
+Cork_Oak_Quercus                                 LPGAIEEVGLLCSACIHSNREEAVIHLIEPLLLSVINSLEDTPVMGFKEGEISKASISIK	656
+                                                 ***:  ******.:*:::* **.* :*:** * **:.**.. *   *    *   *:* :
+
+Herrania_umbratica                               AKPTLSPALETAIDYQLKILSVAISYGGSALLHYKDQFKEAIVSAFDSPSWKVNGAGDHL	718
+Cocoa_Tree_Theobroma                             AKPTLSPALETAIDYQLKILSVAISYGGSALLHYKDQFKEAIVSAFDSPSWKVNGAGDHL	511
+wild_strawberry_Fragaria_vesca_subsp._vesca      AKPTISPALETAIDYQLKILSVAISYGGPALLRYKDQFKEAVVSAFESPSWKVNGAGDHL	717
+charcoal_tre_Trema_orientalis                    AKPSISPALETAIDYQLKILSVAISYGGPALLRYKDHLKEAIISAFECPSWKVNGAGDHL	712
+English_walnut_Juglans_regia                     EKPTLSPALETTISYRLKVLSIAISYGGPALLHYKDQFKEAILSSFDSPSWKVNKAGNHL	715
+749cc0cf-94ce-46e8-ad7b-691878547166             AKPTLSPALETTINYRLKVLSIAISYGGPALLRYKDQFKEAITSSFDSPSWKVNSAGDSL	292
+Cork_Oak_Quercus                                 AKPTLSPALETTINYRLKVLSIAISYGGPALLRYKDQFKEAITSSFDSPSWKVNSAGDSL	716
+                                                  **::******:*.*:**:**:****** ***:***::***: *:*:.****** **: *
+
+Herrania_umbratica                               LRSLLGSLVLYYPMDQYKCILNHPAAAALEEWISTKDYSNDGALKAPKWHIPSDEEVQFA	778
+Cocoa_Tree_Theobroma                             LRSLLGSLVLYYPMDQYKCILNHPAAAALEEWISTKDYSNDGALKAPKWHIPSDEEVQFA	571
+wild_strawberry_Fragaria_vesca_subsp._vesca      LRSLLGSLVLYYPIDQYKCILRHPNASALEEWISSKDYSDDKPLVGPKWHISSAEEVKFA	777
+charcoal_tre_Trema_orientalis                    LRSLLGSLVLYYPIDQYKCVLRHPNAAGLEEWISTKDYSDDKHVAEPKWHIPSAEEVQFA	772
+English_walnut_Juglans_regia                     LRSLLKSLTRYYPADQYKCILRRPGATTLDKWISTKYYSNDELTMAPKWHIPSDDEVQFA	775
+749cc0cf-94ce-46e8-ad7b-691878547166             LRSLLKSLTRYYPIDQYKSILSHPDAAALEDWISTKDYTNGEPVMPPKWHIPSDDEVQFA	352
+Cork_Oak_Quercus                                 LRSLLKSLTRYYPTDQYKSILSHPDAAALEDWISTKDYTNGEPVMPPKWHIPSDEEVQFA	776
+                                                 ***** **. *** ****.:* :* *: *:.***:* *::.     ***** * :**:**
+
+Herrania_umbratica                               NELLILHFQSALDDLLRICQTKIHSDPGNEKENLKVTLLRIDSSLQGVLSCLPDFRPSSR	838
+Cocoa_Tree_Theobroma                             NELLILHFQSALDDLLRICQTKIHSDPGNEKEHLKVTLLRIDSSLQGVLSCLPDFRPSSR	631
+wild_strawberry_Fragaria_vesca_subsp._vesca      NELLDLHLRSALDDLLRICHTKVHSDPGDEKEHLKVTLLRIDSSLQGVLTCLPDFTPSSR	837
+charcoal_tre_Trema_orientalis                    NELLDLHFSSALDDLLRICQTKTHSDPGDEKEHLKVTLLRIDSSLQGVLSCLPDFIPSSR	832
+English_walnut_Juglans_regia                     NELLDLHLQSALDDLYRICQASVHSDPGDKKEHLKVLLLRVNSSLQGVLSCLPDFNMPSS	835
+749cc0cf-94ce-46e8-ad7b-691878547166             NELLDLHLQSALDDLYRTCQARIHSGPGDRNEHLKVTLLRIDSSLQGVLSCLPDFNPSSR	412
+Cork_Oak_Quercus                                 NELLDLHLQSALDDLYRICQARIHSGPGDRNEHLKVTLLRIDSSLQGVLSCLPDFNPSSR	836
+                                                 **** **: ****** * *::  **.**:.:*:*** ***::*******:*****   * 
+
+Herrania_umbratica                               NGTIEDSSYPSFLIAGATGSRVGSTQLREKAAEVIHTACKYLLEEKSDDSILLILIIRIM	898
+Cocoa_Tree_Theobroma                             NGTIEDSSYPSFLIAGATGSRVGSTQLREKAAEVIHTACKYLLEEKSDDSILLILIIRIM	691
+wild_strawberry_Fragaria_vesca_subsp._vesca      NGTVESPNHGSFLIAGATGSTVGSTKLREKAAEIIHAACKYLLEKKSDDSILLVLIIRIM	897
+charcoal_tre_Trema_orientalis                    NGMVEDPEHASFLIAGATGSSVGSIALREKAAEIIHTACKYLVEEKSDDSILLILVIRIM	892
+English_walnut_Juglans_regia                     NAMVEDPDNASFLIAGAIGSSVGSTELREKAAKIIHAICKYLLEEKADDSILLTLVIHIM	895
+749cc0cf-94ce-46e8-ad7b-691878547166             NGTVEDPDHAPFLIAGATGSSVGGTELREKATEVIHAACKYLLEEKSDDSILLILVIRIM	472
+Cork_Oak_Quercus                                 NGTVEDPDHAPFLIAGATGSSVGSTEIREKATEVIHAACKYLLEEKSDDSILLILVIRIM	896
+                                                 *. :*. .   ****** ** **.  :****:::**: ****:*:*:****** *:*:**
+
+Herrania_umbratica                               DALGNYGSLEYDEWSNHRQAWKLESAAIVEPPINFIVSSHSKGKRRPRWALIDKAYMHST	958
+Cocoa_Tree_Theobroma                             DALGNYGSLEYDEWSNHRQAWKLESAAIVEPPINFIASSHSKGKRRPRWALIDKAYMHST	751
+wild_strawberry_Fragaria_vesca_subsp._vesca      DALGNYGSMEYDEWANHRQAWKLESAAIIEPSINFIVSAHSKGKRRPRWALIDKAFMHNT	957
+charcoal_tre_Trema_orientalis                    DALGNYGSLEYDEWANHRQAWKLESAAIIEPPINFVVSSHSRGKRRPRWALIDKAYMHNT	952
+English_walnut_Juglans_regia                     DALVNYGNSWYDQWSG--EVWDLDSAAIIEPPINFIVLSHSRGKKRPRWDVIDKAYLHSM	953
+749cc0cf-94ce-46e8-ad7b-691878547166             DALGNHGRCWYDAWSG--EAWNLESAAIKEPSINFIVSSNYKGKRRPRWYLIDKAYLHSM	530
+Cork_Oak_Quercus                                 DALGNHGRCWYDAWSG--EAWNLESAAIKEPPINFIVSSNYKGKRRPRWYLIDKTYLHSM	954
+                                                 *** *:*   ** *:.  :.*.*:**** ** ***:. :: :**:**** :***:::*. 
+
+Herrania_umbratica                               WRSSQSSYHLFRTNGNFSPPDHVILLMDDLLNLSLHNYESVRMLAGK----SLLKIMKRW	1014
+Cocoa_Tree_Theobroma                             WRSSQSSYHLFRTNGNFLPPDHVILLMDDLLNLSLHNYESVRMLAGK----SLLKIMKRW	807
+wild_strawberry_Fragaria_vesca_subsp._vesca      WRSSQSSYHIFRTNGNFGPPEHVNILVDDLLNLSLHSYETVRILAGK----YLLKMIKRW	1013
+charcoal_tre_Trema_orientalis                    WRSSQSSYHLFRTNGNFCPSDHVNLLMDDLLNLSLHSYETVRALAGK----SLLKMIKKW	1008
+English_walnut_Juglans_regia                     WRSFKSFYHKFCTSGNFYPSYHVIPLIDDLLKLCLHNYGTIRRLAGK----SLLKIFKRW	1009
+749cc0cf-94ce-46e8-ad7b-691878547166             WRALKSSYNKFCARGNFYPSNHVILLIDDLLKLSLHNYGTVRRLAGK----TLLKMIERW	586
+Cork_Oak_Quercus                                 WRALKSSYNKFCSRGNFYPSNHVILLIDDLLKLSLHNYGTVRRLFYFLQHKSLLPRIRRS	1014
+                                                 **: :* *: * : *** *  **  *:****:*.**.* ::* *        **  :.: 
+
+Herrania_umbratica                               PSLISKCVLSLSENLRKPNSPDHAVLGSCAVLSTQTV-----LKH--LTTDPKAFGSFLL	1067
+Cocoa_Tree_Theobroma                             PSLISKCVLSLCENLRKPNSPDHAVLGSCAVLSTQTV-----LKH--LTTDPQAFGSFLL	860
+wild_strawberry_Fragaria_vesca_subsp._vesca      PSMISKCVLSHTENLRNPKAPEYAVLGSCAVLATQTV-----LKH--LTMDPKSFSSFIL	1066
+charcoal_tre_Trema_orientalis                    PPMISKCVLTLTENLRSSSSPEYAVLGSCAVLATQTV-----LKH--VTTDPKAFSSFVL	1061
+English_walnut_Juglans_regia                     PSIISKCILSLTENLQDPNSPEHAVLGSCAILASKAV-----FKH--LAMDPKSLSSFIF	1062
+749cc0cf-94ce-46e8-ad7b-691878547166             PSMISKCVLSLTENLRDSKSSEHVVLGSCAVLASKTV-----FKH--LAMDPKSFCSF--	637
+Cork_Oak_Quercus                                 MPQFS--------------TLETFESTNCYCLPPPTVAVWDCFGAIIADLEPAGCCSTPE	1060
+                                                    :*              : :     .*  *   :*     :       :* .  *   
+
+Herrania_umbratica                               AILLSSHHESLKAQKAINELFVKYNIYFAGVSKSIFKTVDNHIDSPDFADLVSQIGSMSF	1127
+Cocoa_Tree_Theobroma                             AILLSSHHESLKAQKAINELFVKYNIYFAGVSKNIFKTVDNHIDTPDFADLVSQIGSMSF	920
+wild_strawberry_Fragaria_vesca_subsp._vesca      GILSSSHHESLKTQKAINELFVKYNIHFAGVSRIYFKSSENHGDAPDFADLVSQISSMSF	1126
+charcoal_tre_Trema_orientalis                    GILSSSHHESLKCQKAINELFVKYNIHFSGVSRSIFRTPNNHLEGRDFADLVSQIGSMSF	1121
+English_walnut_Juglans_regia                     GILSSSHHESLEAQKVINELFVAYNIYYAGVSRSIFRMSDDQIDGTDFANLVSKIVSMGS	1122
+749cc0cf-94ce-46e8-ad7b-691878547166             ---------------------------IRGIL---LR-----------------------	644
+Cork_Oak_Quercus                                 V-------SPL-----------PFVLEFPGL-----------------------------	1073
+                                                                              *:                             
+
+Herrania_umbratica                               DSTGLHWRYKLMANRVLLXXXMSCRHDPNFSPKILSETAGHFLKNLKSQLPQTRILAISA	1187
+Cocoa_Tree_Theobroma                             DSTGLHWRYNLMANRVLLLLAVSCRHDPNFSPKILGETAGHFLKNLKSQLPQTRILAISA	980
+wild_strawberry_Fragaria_vesca_subsp._vesca      DSVGLHWRYNLMANRVLLLLAMASRNDPNSSSKILSETAGHFLKNLKSQLPQTRILAISA	1186
+charcoal_tre_Trema_orientalis                    DSIGLHWRYNLMANRVLLLLAMGSRNDPNASSKILSETAGHFLKNLKSQLPQTRILAITA	1181
+English_walnut_Juglans_regia                     DSISLHWRYNLMANRVLLLLAMTSRNYLNSSSKMLRDTAGHFLKNLKCKLPQTRILAISA	1182
+749cc0cf-94ce-46e8-ad7b-691878547166             ------------------------------------------------------------	644
+Cork_Oak_Quercus                                 ------------------------------------------------------------	1073
+                                                                                                             
+
+Herrania_umbratica                               LNTLLKDSPYKMSADDRPLFSGKSQENAKSSLEGALREIFQEEGFFNETLNSLSHVHIIT	1247
+Cocoa_Tree_Theobroma                             LNTLLKDSPYKMSADDRPLFSGNSQENAESSLEGALREIFQEEGFFNETLNSLSHVHIIT	1040
+wild_strawberry_Fragaria_vesca_subsp._vesca      LNTLLKESPYKLSDKKQSFPSENLQGGRKSSLEGELTQIFQEDGFFSETLNSLSHVHIIS	1246
+charcoal_tre_Trema_orientalis                    LNTLLKESPYKLSAEEQTLFSGNLQENRKSSLEGELTQIFMEEGFFNETLNSLSHVHITT	1241
+English_walnut_Juglans_regia                     LNTLLKESPYKLSMEECPFFSDDFKGKTRSSLEKALTQIFQEDGFFNEALNSLALVHIIT	1242
+749cc0cf-94ce-46e8-ad7b-691878547166             ------------------------------------------------------------	644
+Cork_Oak_Quercus                                 ------------------------------------------------------------	1073
+                                                                                                             
+
+Herrania_umbratica                               DTESASSRGNHGNSSFQSLADKSITRFYFDFSATWPRTPSWISLLGSDTFYSNFARIFKR	1307
+Cocoa_Tree_Theobroma                             DTESASSRGNHGNSSFQSLADKSITRFYFDFSATWPRTPSWISLLGSDTFYSNFARIFKR	1100
+wild_strawberry_Fragaria_vesca_subsp._vesca      DTESS-SRGNHGSSSFQSLADKSITRFYFDFTSSWPRTPTWISLLGSDTFYSNYARIFKR	1305
+charcoal_tre_Trema_orientalis                    DTEST-SSRSYGNSSFQSLADKSITRFYFDFSSSWPRTPSWISLLGTDNFYSNFARIFKR	1300
+English_walnut_Juglans_regia                     DVEGTSSGGNHGSSIFQSQADKSITRFYFEFSASWPRTPCWISFLESNSFHSKFARIFKR	1302
+749cc0cf-94ce-46e8-ad7b-691878547166             ------------------------------------------------------------	644
+Cork_Oak_Quercus                                 ------------------------------------------------------------	1073
+                                                                                                             
+
+Herrania_umbratica                               LIQECGMPVLLALKSTLEEFVNAKERSKQCVAAEAFAGVLHSDVNGLLEEWDSWMMVQLQ	1367
+Cocoa_Tree_Theobroma                             LIQECGMPVLLALKSTLEEFVNAKERSKQCVAAEAFAGVLHSDVNGLLEEWDSWMMVQLQ	1160
+wild_strawberry_Fragaria_vesca_subsp._vesca      LLQECGMPVLVALKSSLEEFSNAKERSKQCVAAEAFAGILHSDVNGISEAWDDWMAVQLQ	1365
+charcoal_tre_Trema_orientalis                    LIQECGMPVLLALKSSLEEFALAKERSKQCVAAEAFAGVLHSDVNGLVEAWDSWMVVQLQ	1360
+English_walnut_Juglans_regia                     LVQECGMSVLLPLKSTLEEFANAKERSKQCVAAEAFAGILHSDVNGTLGAWDSWMMVQLR	1362
+749cc0cf-94ce-46e8-ad7b-691878547166             ------------------------------------------------------------	644
+Cork_Oak_Quercus                                 ------------------------------------------------------------	1073
+                                                                                                             
+
+Herrania_umbratica                               NIILAQSVESIPEWAACIRYAVTGKGKHGTRVPLLRQQILKCLLTPLPPAVTTTVVAKRY	1427
+Cocoa_Tree_Theobroma                             NIILAQSVESIPEWAACIRYAVTGKGKHGTRVPLLRQQILNCLLTPLPPTVTTTVVAKRY	1220
+wild_strawberry_Fragaria_vesca_subsp._vesca      NIILAQSVESIPEWTACIRYAVTGKGKYGTTVPLLRQPVLDCLAAPLPGTVTTTVVAKRY	1425
+charcoal_tre_Trema_orientalis                    NIILAQSVESIPEWAACIRYAVTGKGKYGTRIPLLRQQILDCLATPLPPTVTTTVVSKRY	1420
+English_walnut_Juglans_regia                     NIILAQSVESIPEWAACIRYAVGGKGRYGTRIPLLRQQILDCLAQPLPPKVTTTVVAKRY	1422
+749cc0cf-94ce-46e8-ad7b-691878547166             ------------------------------------------------------------	644
+Cork_Oak_Quercus                                 ------------------------------------------------------------	1073
+                                                                                                             
+
+Herrania_umbratica                               AFISAALIELSPQKMPVPEIQMHNKLLDELLGNMCHSSAQVREAIGVTLSVLCSNIWLRV	1487
+Cocoa_Tree_Theobroma                             AFISAALIELSPQKMPVPEIQMHNKLLDELLGNMCHSSAQVREAIGVTLSVLCSNIRLHA	1280
+wild_strawberry_Fragaria_vesca_subsp._vesca      AFLSAALVELSPQKMPLSEIQLHYRLLEELLGNMCHSSAQVREAIGVALSVLCSNIRLYE	1485
+charcoal_tre_Trema_orientalis                    AFLSAALIEISPQKMPVTEIRLHFKLLEELLANMCHSSAQVREAIGVTLSVLCSNIQLYA	1480
+English_walnut_Juglans_regia                     TFLSAALIELSPQKMPVGELQLHNKLLQELLGNMCHSSAQVREAVGVTLSVLCSNIRLYA	1482
+749cc0cf-94ce-46e8-ad7b-691878547166             ------------------------------------------------------------	644
+Cork_Oak_Quercus                                 ------------------------------------------------------------	1073
+                                                                                                             
+
+Herrania_umbratica                               SSSQDHSNERGKTDINNKLKEENWVQLLTERASKLVVNIQNSSLSDVLDTSTDISTKNGY	1547
+Cocoa_Tree_Theobroma                             SSSQDHSNDRGKTNINNQLKEENWVQLLTERASELVVNIQNSSLSDVIDTSTDISTKNGY	1340
+wild_strawberry_Fragaria_vesca_subsp._vesca      SFDHDGSHESASKGLGNQFDGRSWVLFLKERASEVVINIQNTTQSDNLETPENNTPENGH	1545
+charcoal_tre_Trema_orientalis                    SVCHHS-HGGENMDLDGQLKQRSWIQILKERASEAVINIQRSNRSDGLDTKR-NTSQNGN	1538
+English_walnut_Juglans_regia                     ISDHHHSHEGANNDVNNRLMEDC-FQILTEKASQMLTNIQNASHCVNLETSRNISAPDVH	1541
+749cc0cf-94ce-46e8-ad7b-691878547166             ------------------------------------------------------------	644
+Cork_Oak_Quercus                                 ------------------------------------------------------------	1073
+                                                                                                             
+
+Herrania_umbratica                               QNGDSQDDVKWMETLFHFIISTLKSGRSSYLLDVIVGLLYPVISLQETSNKDLSTLAKAA	1607
+Cocoa_Tree_Theobroma                             QNGDSQDDVKWMETLFHFIISTLKSGRSSYLLDVIVGLLYPVISLQETSNKDLSTLAKAA	1400
+wild_strawberry_Fragaria_vesca_subsp._vesca      LNGDSQADVKWMETLFHFIISSLRSARSSYLVDVIVGFLYPVISLQETSSKELSTLAKAA	1605
+charcoal_tre_Trema_orientalis                    LNGDSQDDVKWMETLFHFIISSLKSGRSSYLLDVLVGLLYPVISLQETSNKDLSTLAKAA	1598
+English_walnut_Juglans_regia                     LNGDSQDNVKWMETLFHFIISSLKSGRSSCLLDVIVGLLYPVISLQETSNKDLSTLAKAA	1601
+749cc0cf-94ce-46e8-ad7b-691878547166             ------------------------------------------------------------	644
+Cork_Oak_Quercus                                 ------------------------------------------------------------	1073
+                                                                                                             
+
+Herrania_umbratica                               FELLKWRIILEPHLQKAVSVILSSAKDPNWRTRSATLTYLRTFMFRHTFILSKGDKQKIW	1667
+Cocoa_Tree_Theobroma                             FELLKWRIILEPHLQKAVSVILSSAKDPNWRTRSATLTYLRTFMFRHTFILLKGDKQKIW	1460
+wild_strawberry_Fragaria_vesca_subsp._vesca      FELLKWRVFWGPHLQEAVSVILSSANDPNWRTRSATLTFLRTFMYRHTFILSIGEKQQIW	1665
+charcoal_tre_Trema_orientalis                    FELLKWRVFWEPYLQEALSVILSSANDSNWRTRSATLTFLRTFMYRHTFILSSTEKQRIW	1658
+English_walnut_Juglans_regia                     FELLEWRIFWEPHLQEAVSVILSSAIDSNWRTRSATLTYLQTFMHRHTFIFSRSEKQKIW	1661
+749cc0cf-94ce-46e8-ad7b-691878547166             ------------------------------------------------------------	644
+Cork_Oak_Quercus                                 ------------------------------------------------------------	1073
+                                                                                                             
+
+Herrania_umbratica                               KTVEKLLQDNQVEVREHAAGVLAGLLKGGDEDLAGDFRDRAYIEANSIQRRRKTRNTNSG	1727
+Cocoa_Tree_Theobroma                             KTVEKLLQDNQVGKRACCRGASWPNEGWG-------------------------------	1489
+wild_strawberry_Fragaria_vesca_subsp._vesca      RTVEKLLVDNQVEVREHAAAVLAGLTKGGDEDLAKDFREKAYKEATDLQRKRKRRNLSSS	1725
+charcoal_tre_Trema_orientalis                    RTVEKLLVDNQVEVREHAAAVLAGLMKGGDEDLARDFRDKAYKEANNLQRKRKHRNLSSS	1718
+English_walnut_Juglans_regia                     RTVEKLLIDIQVEVREHAAAVLADLMKGVDEDQARHFLDRAYNEANALHKKRKKINLNDG	1721
+749cc0cf-94ce-46e8-ad7b-691878547166             ------------------------------------------------------------	644
+Cork_Oak_Quercus                                 ------------------------------------------------------------	1073
+                                                                                                             
+
+Herrania_umbratica                               HSVASVHGAVLALAASVLSVPYDMPRWLPDHVTLLARFSGEPSPVKLTVTKAVAEFRRTH	1787
+Cocoa_Tree_Theobroma                             ------------------------------------------------------------	1489
+wild_strawberry_Fragaria_vesca_subsp._vesca      QPIASIHGAVLALVASVLSAPYDMPSWLPDHVTLLARFAGEPTPVKSTVTKAVAEFRRTH	1785
+charcoal_tre_Trema_orientalis                    QSIASTHGAVLALAASVLSAPYDMPSWLPEHVTLLAHFVGEASPIKSTVTKAVAEFRRTH	1778
+English_walnut_Juglans_regia                     QSVASIHGPVLALAASVLSAPYDMPSWLPKHVTLLARFGGEPSPVKSTVTKAVAEFRRTH	1781
+749cc0cf-94ce-46e8-ad7b-691878547166             ------------------------------------------------------------	644
+Cork_Oak_Quercus                                 ------------------------------------------------------------	1073
+                                                                                                             
+
+Herrania_umbratica                               ADTWNVQKDSFNEEQLEVLADTSSSSSYFA	1817
+Cocoa_Tree_Theobroma                             ------------------------------	1489
+wild_strawberry_Fragaria_vesca_subsp._vesca      ADTWNIQKDLFTEEQLEVLADTSSSSSYFA	1815
+charcoal_tre_Trema_orientalis                    ADTWNIQKDSFTEEQLEVLADTSSSSSYFA	1808
+English_walnut_Juglans_regia                     ADTWDIQKNLFTEEQLEVLADTSSSS-YFA	1810
+749cc0cf-94ce-46e8-ad7b-691878547166             ------------------------------	644
+Cork_Oak_Quercus                                 ------------------------------	1073
+                                                                               

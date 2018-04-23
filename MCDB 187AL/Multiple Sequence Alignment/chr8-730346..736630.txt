@@ -1,0 +1,56 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Quercus_lobata                           VSVSEEEVAQEKEKEKEMEGTSTTVPFKNLHSREYQGHKKKVHSVAWNCTGTKLASGSVD	60
+Clementine_Citrus_clementina             -------------------MGESSIPFKNLHSREYTGHKKKVHSVAWNCTGTKLASGSVD	41
+English_walnut_Juglans_regia             --------------------MEATLPFKNIHSREYQGHKKKVHSVAWNCSGTKLASGSVD	40
+Cork_Oak_Quercus                         -----------------MEGTSTAVPFKNLHSREYQGHKKKVHSVAWNCTGTKLASGSVD	43
+Barbados_nut_Jatropha_curcas             --------------------MEETIPFKNLHSREYQGHKKKVHSVAWNCSGTKLASGSVD	40
+Peruvian_Cotton_Gossypium_raimondii      --------------------MEEKIAFKNLHSREYQGHKKKVHSVAWNCTGTKLASGSVD	40
+Cocoa_Tree_Theobroma_cacao               --------------------MEEKIPFKNLSSREYQGHKKKVHSVAWNCTGTKLASGSVD	40
+                                                              .  : ***: **** *************:**********
+
+Quercus_lobata                           QTARLWHIEPHGHGKVKDIELKGHTDSVDQLCWDPKHGDLIATASGDKTVRLWDARSGKC	120
+Clementine_Citrus_clementina             QTARVWHIEPHGHGKVKDIELRGHADSVDQLCWDPKHADLIATASGDKTVRLWDARSGKC	101
+English_walnut_Juglans_regia             QTARVWHIEPHGHGKVKDIELKGHTDSVDQLCWDPKHADLIATASGDKTVRLWDARSGKC	100
+Cork_Oak_Quercus                         QTARLWHIEPHGHGKVKDIELKGHTDSVDQLCWDPKHGDLIATASGDKTVRLWDARSGKC	103
+Barbados_nut_Jatropha_curcas             QTARVWHIEPHGHGKIKDVELKGHTDSVDQLCWDPKHADLIATASGDKTVRLWDARSGKC	100
+Peruvian_Cotton_Gossypium_raimondii      QTARVWHIEPHGHGKAKDIELKGHTDSVDQLCWDPKHADLIATASGDKTVRLWDARSGKC	100
+Cocoa_Tree_Theobroma_cacao               QTARVWHIEPHGHGKAKDIELKGHTDSVDQLCWDPKHADLIATASGDKTVRLWDARSGKC	100
+                                         ****:********** **:**:**:************.**********************
+
+Quercus_lobata                           SMQTELSGENINITYKPDGTHIAVGNRDDELTILDVRKFKPMHKRKFSYEVNEIAWNMTG	180
+Clementine_Citrus_clementina             SQQAELSGENINITYKPDGTHIAVGNRDDELTILDVRKFKPIHRRKFGYEVNEIAWNMTG	161
+English_walnut_Juglans_regia             SQQAELSGENINITYKPDGTHVAVGNRDDELTILDVRKFRPIHKRKFSYEVNEIAWNMTG	160
+Cork_Oak_Quercus                         SMQAELSGENINITYKPDGTHIAVGNRDDELTILDVRKFKPMHKRKFSYEVNEIAWNMTG	163
+Barbados_nut_Jatropha_curcas             SQQTELSGENINITYRPDGTHIAVGNRDDELTILDVRKFKPIHRRKFNYEVNEIAWNMTG	160
+Peruvian_Cotton_Gossypium_raimondii      SQQAELSGENINITYKPDGTHVAVGNRDDELTILDVRKFKPIHRRKFSYEVNEIAWNMTG	160
+Cocoa_Tree_Theobroma_cacao               SQQAELSGENINITYKPDGTHIAVGNRDDELTILDVRKFKPMHRRKFSYEVNEIAWNMTG	160
+                                         * *:***********:*****:*****************:*:*:***.************
+
+Quercus_lobata                           EMFFLTTGNDILLLEV---LIP--------------------------------------	199
+Clementine_Citrus_clementina             EMFFLTTGNGTVEVLTYPSLRPLDTVVAHTAGCYCIAIDPMGRCLKAVLT-----FSSYS	216
+English_walnut_Juglans_regia             EMFFLTTGNGTVEVLAYPSLRLLDTLMAHTAGCYCIAIDPIGRYFAVGSADSLVSLWDIS	220
+Cork_Oak_Quercus                         EMFFLTTGNGTVEVLAYPSLRPLDTLVAHTAGCYCIAIDPMGRYFAVGSADSLVSLWEIS	223
+Barbados_nut_Jatropha_curcas             EMFLLTTGNGTVEVLAYPSLRPLDTVVAHTAGCYCIAIDPKGRYFAVGSADSLVSLWDIS	220
+Peruvian_Cotton_Gossypium_raimondii      DMFFLTTGNGTVEVLAYPLLRPVDTLMAHTAGCYCIAIDPTGRFGLTLS-----------	209
+Cocoa_Tree_Theobroma_cacao               DMFFLTTGNGTVEVLAYPSLRPVDTLMAHTAGCYCIAIDPTGRYFAVGSADSLVSLWDIS	220
+                                         :**:*****. : : .   *                                        
+
+Quercus_lobata                           ------------------------------------------------------------	199
+Clementine_Citrus_clementina             HANCGSTY----------------------------------------------------	224
+English_walnut_Juglans_regia             EMLCVRTFTKLEWPVRTISFNYTGDYVASASEDLFIDISNVRTGRTVHQIPCRAAMNSVE	280
+Cork_Oak_Quercus                         EMLCVRTFTKLEWPVRTISFNYTGDYIASASEDLFIDISNVHTGRTVHQIPCRAAMNSVE	283
+Barbados_nut_Jatropha_curcas             EMLCVRTFTKLEWPVRTISFNHTGDYIASASEDLFIDISNVHTGRSVHQIPCRAAMNSVE	280
+Peruvian_Cotton_Gossypium_raimondii      ------------------------------------------------------------	209
+Cocoa_Tree_Theobroma_cacao               EMLCVRTFTKLEWPVRTISFNSTGDYIASASEDLFIDISNVHTGRTVHQIPCRAAMNSVE	280
+                                                                                                     
+
+Quercus_lobata                           ---------------------------------	199
+Clementine_Citrus_clementina             ---------------------------------	224
+English_walnut_Juglans_regia             WNPKYNLLAYAGDDKNKYQADEGVFRIFGFESA	313
+Cork_Oak_Quercus                         WNPRYNLLAYAGDDKNKYQADEGVFRIFGFESP	316
+Barbados_nut_Jatropha_curcas             WNPKYNLLAYAGDDKNKYLADEGVFRIFGFESA	313
+Peruvian_Cotton_Gossypium_raimondii      ---------------------------------	209
+Cocoa_Tree_Theobroma_cacao               WNPKYNLLAYAGDDKNKYSADEGVFRIFGFESS	313
+                                                                          
