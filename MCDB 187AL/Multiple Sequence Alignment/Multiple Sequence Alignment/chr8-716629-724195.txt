@@ -1,0 +1,56 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Barbados_nut_Jatropha_curcas                          MTTSGGGGGGRYMAYSPSPSAPHSPHLSGLRSAS--------SAIVEQEKYLSELLAERH	52
+Tangerine_Citrus_unshiu                               ---MASSGGGRFMAYSLSPSAPHSPHLPSLRSAS--------SAILDQEKYLSELLAERH	49
+Clementine_Citrus_clementina                          ------------------------------------------------------------	0
+Sweet_Orange_Citrus_sinensis                          ---MASSGGGRFMAYSLSPSAPHSPHLPSLRSAS--------SAILDQEKYLSELLAERH	49
+Australian_pitcher_plant_Cephalotus_follicularis      -MATGGVGGGRYMAYSPSPSAPHSPHLSGLRSAS--------SVLVEQEKYLSELLAERN	51
+Valley_Oak_Quercus_lobata                             ------------------------------------------------------------	0
+Cork_Oak_Quercus_suber                                -MASSVGGAARYMAYSPSPSAPPSPHLSGLRSAAAAAAASSAAALLDQEKYLTELLAERH	59
+                                                                                                                  
+
+Barbados_nut_Jatropha_curcas                          KLSPFMPVLPHTYRLLNQEILRVTTLLGNASVLGQSGLEHASPLASGGIFSNGGADANGW	112
+Tangerine_Citrus_unshiu                               KLNPFLPVLPNAYRLLNQ------------------------------------------	67
+Clementine_Citrus_clementina                          ------------------------------------------------------------	0
+Sweet_Orange_Citrus_sinensis                          KLNPFLPVLPNAYRLLNQEIMRVTTLLGNASVLGQSGLEHASPLTSGGIFSNGGADTNGL	109
+Australian_pitcher_plant_Cephalotus_follicularis      KLSPFMPVLPNIYRLLNQEILRVTTLLGNASVLGQTGLEHASPLASGGIFSNGAADGNVW	111
+Valley_Oak_Quercus_lobata                             ------------------------------------------------------------	0
+Cork_Oak_Quercus_suber                                KLSPFMPVLPNCYRLINQEILRVTTLLGNASVLGQSGLEHASPLASGGIFSNGGADVNGW	119
+                                                                                                                  
+
+Barbados_nut_Jatropha_curcas                          ASRFQSEMSSLLQPSSAQNWLSSQGSSSGLIVKRTIRVDIPVDTYPSYNFVGRLLGPRGN	172
+Tangerine_Citrus_unshiu                               ----------------AQNWLSSQGSSSGLIVKRTIRVDIPVEKYPNFNFVGRLLGPRGN	111
+Clementine_Citrus_clementina                          -----------MQSSSAQNWLSSQGSSSGLIVKRTIRVDIPVEKYPNFNFVGRLLGPRGN	49
+Sweet_Orange_Citrus_sinensis                          ASRFQSEISGLMQSSSAQNWLSSQGSSSGLIVKRTIRVDIPVEKYPNFNFVGRLLGPRGN	169
+Australian_pitcher_plant_Cephalotus_follicularis      ASRYQSEMTSLLRPSSTQNWLSPQSSSSGLIVKRTIRVDIPVDHFPNYNFVGRLLGPRGN	171
+Valley_Oak_Quercus_lobata                             -----------------------------------------MLIFIQYNFVGRLLGPRGN	19
+Cork_Oak_Quercus_suber                                ASRFQSEMSGLIQPSSAQNWLSSQCSSSGLIVKRTLRVDIPVEKYPNYNFVGRLLGPRGN	179
+                                                                                               :  : .:************
+
+Barbados_nut_Jatropha_curcas                          SLKRVEASTECRVLIRGRGSIKDPTREEMMRGKPGYEHLNEPLHILVEAELPVEIVDARL	232
+Tangerine_Citrus_unshiu                               SLKRVEASTECRVLIRGRGSIKDPAREEMMRGKPGYEHLNEPLHILVEAELPVEIVDARL	171
+Clementine_Citrus_clementina                          SLKRVEASTECRVLIRGRGSIKDPAREEMMRGKPGYEHLNEPLHILVEAELPVEIVDARL	109
+Sweet_Orange_Citrus_sinensis                          SLKRVEASTECRVLIRGRGSIKDPAREEMMRGKPGYEHLNEPLHILVEAELPVEIVDARL	229
+Australian_pitcher_plant_Cephalotus_follicularis      SLKRVEASTECRVLIRGRGSIKDPSREEMVRGKPGYEHLNEPLHILVEAELPVEIVDARL	231
+Valley_Oak_Quercus_lobata                             SLKRVEASTECRVLIRGRGSIKDPTREEMMRGKPGYEHLNEPLHILVEAELPVEIIDARL	79
+Cork_Oak_Quercus_suber                                SLKRVEASTECRVLIRGRGSIKDPTREEMMRGKPGYEHLNEPLHILVEAELPVEIIDARL	239
+                                                      ************************:****:*************************:****
+
+Barbados_nut_Jatropha_curcas                          MQAREILEDLLKPVDESHDFYKKQQLRELAMLNGTLREEGSPMSGSVSPFHNSLGMKRAK	292
+Tangerine_Citrus_unshiu                               MQAREILEDLLKPVDESHDFYKKQQLRELAMLNGTLREEGSPMSGSVSPFHNSLGMKRAK	231
+Clementine_Citrus_clementina                          MQAREILEDLLKPVDESHDFYKKQQLRELALLNGTLREEGSPMSGSVSPFHNSLGMKRAK	169
+Sweet_Orange_Citrus_sinensis                          MQAREILEDLLKPVDESHDFYKKQQLRELAMLNGTLREEGSPMSGSVSPFHNSLGMKRAK	289
+Australian_pitcher_plant_Cephalotus_follicularis      MQAREILEDLLKPVDETHDFYKKQQLRELAMLNGTLREEGSPMSGSVSPFHNSLGMKRAK	291
+Valley_Oak_Quercus_lobata                             MQAREILEDLLKPVDETHDFYKKQQLRELAMINGTLREEGSPMSGSVSPFHNSLGMKRAK	139
+Cork_Oak_Quercus_suber                                MQAREILEDLLKPVDETHDFYKKQQLRELAMINGTLREEGSPMSGSVSPFHNSLGMKRAK	299
+                                                      ****************:*************::****************************
+
+Barbados_nut_Jatropha_curcas                          TRG	295
+Tangerine_Citrus_unshiu                               TRG	234
+Clementine_Citrus_clementina                          TRG	172
+Sweet_Orange_Citrus_sinensis                          TRG	292
+Australian_pitcher_plant_Cephalotus_follicularis      TRG	294
+Valley_Oak_Quercus_lobata                             TRG	142
+Cork_Oak_Quercus_suber                                TRG	302
+                                                      ***
