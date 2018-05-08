@@ -1,0 +1,58 @@
+chr8 717500
+
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Pyrus_x_bretschneideri_Chinese_White_Pear      MEMMSSSGGGRYMAYSRSPSAPHSPHLSGLRSA--------ALVAAEQEKYLLELLGERH	52
+Rosa_chinensis_Chinese_Rose                    -MTSSSGVGGRYMAYSPLPSAPLSPHLSGLRSVSSS-----AALVAEQEKYLSELFGERQ	54
+Durio_zibethinus_Durian                        -MTSSGGSVGRYMAYSPSPSAHHSPHLSGLRSAAAAAA--SSAAFLDQEKYLSELLAERH	57
+c84d065a-5d5e-4393-9847-45b4e0fe0d61           -MASSVGGAARYMAYSPSPSAPPSPHLSGLRSAAAAAAASSAAALLDQEKYLTELLAERH	59
+Quercus_suber_Cork_Oak                         -MASSVGGAARYMAYSPSPSAPPSPHLSGLRSAAAAAAASSAAALLDQEKYLTELLAERH	59
+Citrus_sinensis_Sweet_Orange                   ---MASSGGGRFMAYSLSPSAPHSPHLPSLRSAS--------SAILDQEKYLSELLAERH	49
+Citrus_clementina_Clementine                   ---MASSGGGRFMAYSLSPSAPHSPHLPSLRSAS--------SAILDQEKYLSELLAERH	49
+                                                   : .  .*:****  ***  **** .***.             :***** **:.**:
+
+Pyrus_x_bretschneideri_Chinese_White_Pear      KLSPFLLVLPNCNRLLNQEILRVTTLLGNASVLGQSGLEHASPLASRGMFSNGGADVNGW	112
+Rosa_chinensis_Chinese_Rose                    KLGPFLPVLPNCCRLLNQEILRVTTLLGNASVLGQSGLEHASPLASGGMFSNGGADMNGW	114
+Durio_zibethinus_Durian                        KLSPFMPVLPHTYRLLNHEILRVTTLLGNASVLGQSGLEQASPLASGGIFSNGGADMNGW	117
+c84d065a-5d5e-4393-9847-45b4e0fe0d61           KLSPFMPVLPNCYRLINQEILRVTTLLGNASVLGQSGLEHASPLASGGIFSNGGADVNGW	119
+Quercus_suber_Cork_Oak                         KLSPFMPVLPNCYRLINQEILRVTTLLGNASVLGQSGLEHASPLASGGIFSNGGADVNGW	119
+Citrus_sinensis_Sweet_Orange                   KLNPFLPVLPNAYRLLNQEIMRVTTLLGNASVLGQSGLEHASPLTSGGIFSNGGADTNGL	109
+Citrus_clementina_Clementine                   KLNPFLPVLPNTYRLLNQEIMRVTTLLGNASVLGQSGLEHASPLTSGGIFSNGGADVNGL	109
+                                               **.**: ***:  **:*:**:******************:****:* *:******* ** 
+
+Pyrus_x_bretschneideri_Chinese_White_Pear      ASRFQSEMSGLLQPSSTQNWLSPQSSSSGLIVKRTIRVDIPVDKYPNYNFVGRLLGPRGN	172
+Rosa_chinensis_Chinese_Rose                    ASRFQSEMSSLLQPSSTQNWLSPQSSSSGLIVKRTIRVDIPVDKYPNYNFVGRLLGPRGN	174
+Durio_zibethinus_Durian                        SSRFQSEMSSLVQPSLAQNWLGSQGSSSGLTVKRTIRVDIPVNNYPNYNFVGRLLGPRGN	177
+c84d065a-5d5e-4393-9847-45b4e0fe0d61           ASRFQSEMSGLIQPSSAQNWLSSQCSSSGLIVKRTLRVDIPVEKYPNYNFVGRLLGPRGN	179
+Quercus_suber_Cork_Oak                         ASRFQSEMSGLIQPSSAQNWLSSQCSSSGLIVKRTLRVDIPVEKYPNYNFVGRLLGPRGN	179
+Citrus_sinensis_Sweet_Orange                   ASRFQSEISGLMQSSSAQNWLSSQGSSSGLIVKRTIRVDIPVEKYPNFNFVGRLLGPRGN	169
+Citrus_clementina_Clementine                   ASRFQSEISGLMQSSSAQNWLSSQGSSSGLIVKRTIRVDIPVEKYPNFNFVGRLLGPRGN	169
+                                               :******:*.*:* * :****. * ***** ****:******::***:************
+
+Pyrus_x_bretschneideri_Chinese_White_Pear      SLKRVEATTECRVLIRGRGSIKDPTKEEMMRGKPGYEHLNEPLHILVEAELPVEIIDTRL	232
+Rosa_chinensis_Chinese_Rose                    SLKRVEATTECRVLIRGRGSIKDPAREDMMRGKPGYEHLNEPLHILVEAELPVEIVDARL	234
+Durio_zibethinus_Durian                        SLKRVEANTECRVLIRGRGSIKDPAREELMRGKSGYEHLNEPLHILVEAELPVEIVDARL	237
+c84d065a-5d5e-4393-9847-45b4e0fe0d61           SLKRVEASTECRVLIRGRGSIKDPTREEMMRGKPGYEHLNEPLHILVEAELPVEIIDARL	239
+Quercus_suber_Cork_Oak                         SLKRVEASTECRVLIRGRGSIKDPTREEMMRGKPGYEHLNEPLHILVEAELPVEIIDARL	239
+Citrus_sinensis_Sweet_Orange                   SLKRVEASTECRVLIRGRGSIKDPAREEMMRGKPGYEHLNEPLHILVEAELPVEIVDARL	229
+Citrus_clementina_Clementine                   SLKRVEASTECRVLIRGRGSIKDPAREEMMRGKPGYEHLNEPLHILVEAELPVEIVDARL	229
+                                               *******.****************::*::**** *********************:*:**
+
+Pyrus_x_bretschneideri_Chinese_White_Pear      LQAREVLEDLLRPVDESRDFYKKQQLRELAILNGTLREEGSPMSGSVSPFHNSLG-MKRA	291
+Rosa_chinensis_Chinese_Rose                    LQAREVLEDLLRPVDESQDFYKKQQLRELAMLNGTLRDEGSPMSGSVSPFNNSLGGMKRA	294
+Durio_zibethinus_Durian                        MQAREILEDLLKPVDESQDFYKKQQLRELAMLNGTLREEGSHMSGSVSPFHNSLG-MKRA	296
+c84d065a-5d5e-4393-9847-45b4e0fe0d61           MQAREILEDLLKPVDETHDFYKKQQLRELAMINGTLREEGSPMSGSVSPFHNSLG-MKRA	298
+Quercus_suber_Cork_Oak                         MQAREILEDLLKPVDETHDFYKKQQLRELAMINGTLREEGSPMSGSVSPFHNSLG-MKRA	298
+Citrus_sinensis_Sweet_Orange                   MQAREILEDLLKPVDESHDFYKKQQLRELAMLNGTLREEGSPMSGSVSPFHNSLG-MKRA	288
+Citrus_clementina_Clementine                   MQAREILEDLLKPVDESHDFYKKQQLRELALLNGTLREEGSPMSGSVSPFHNSLG-MKRA	288
+                                               :****:*****:****::************::*****:*** ********:**** ****
+
+Pyrus_x_bretschneideri_Chinese_White_Pear      KTRG	295
+Rosa_chinensis_Chinese_Rose                    KTRG	298
+Durio_zibethinus_Durian                        KTRG	300
+c84d065a-5d5e-4393-9847-45b4e0fe0d61           KTRG	302
+Quercus_suber_Cork_Oak                         KTRG	302
+Citrus_sinensis_Sweet_Orange                   KTRG	292
+Citrus_clementina_Clementine                   KTRG	292
+                                               ****
