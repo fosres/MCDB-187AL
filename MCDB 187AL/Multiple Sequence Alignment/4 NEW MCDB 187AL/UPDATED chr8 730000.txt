@@ -1,0 +1,81 @@
+UPDATED chr8 730000
+
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Jatropha_curcas                           ------------------------------------------------------------	0
+Vitis_vinifera_Wine_Grape                 ------------------------------------------------------------	0
+Theobroma_cacao_Cacao_Tree                ------------------------------------------------------------	0
+Gossypium_arboreum                        ------------------------------------------------------------	0
+Juglans_regia_English_walnut              ------------------------------------------------------------	0
+Eucalyptus_grandis                        MKKWNEMLKEGHSWASHKRERQPLPRSSQNPKISAHRFSILSSPPASLAAREQASASFRF	60
+Nelumbo_nucifera_Sacred_Lotus             ------------------------------------------------------------	0
+7ed3267c-1f29-49ec-a967-0a36bab69f8b      -----------------------------------------------------------M	1
+Quercus_suber_Cork_Oak                    -----------------------------------------------------------M	1
+                                                                                                      
+
+Jatropha_curcas                           --MEETIPFKNLHSREYQGHKKKVHSVAWNCSGTKLASGSVDQTARVWHIEPHGHGKIKD	58
+Vitis_vinifera_Wine_Grape                 --MEETIPFKNLHSREYQGHKKKVHSVAWNCTGTKLASGSVDQTARIWLIEQHGHGKVKD	58
+Theobroma_cacao_Cacao_Tree                --MEEKIPFKNLSSREYQGHKKKVHSVAWNCTGTKLASGSVDQTARVWHIEPHGHGKAKD	58
+Gossypium_arboreum                        --MEEKIAFKNLHSREYQGHKKKVHSVAWNCTGTKLASGSVDQTARVWHIEPHGHGKAKD	58
+Juglans_regia_English_walnut              --MEATLPFKNIHSREYQGHKKKVHSVAWNCSGTKLASGSVDQTARVWHIEPHGHGKVKD	58
+Eucalyptus_grandis                        ARMEEAIPFKNLPSREYQGHKKKVHSVAWNCTGTKLASGSVDQTARVWHIEPHGHGKVKD	120
+Nelumbo_nucifera_Sacred_Lotus             -MEDTTIPFKNLHSREYQGHKKKVHSVAWNCTGTKLASGSVDQTARVWHIESHGHGKVKD	59
+7ed3267c-1f29-49ec-a967-0a36bab69f8b      EGTSTTVPFKNLHSREYQGHKKKVHSVAWNCTGTKLASGSVDQTARLWHIEPHGHGKVKD	61
+Quercus_suber_Cork_Oak                    EGTSTAVPFKNLHSREYQGHKKKVHSVAWNCTGTKLASGSVDQTARLWHIEPHGHGKVKD	61
+                                             .  : ***: ******************:**************:* ** ***** **
+
+Jatropha_curcas                           VELKGHTDSVDQLCWDPKHADLIATASGDKTVRLWDARSGKCSQQTELSGENINITYRPD	118
+Vitis_vinifera_Wine_Grape                 IELKGHTDSVDQLCWDPKHADLIATASGDKTVRLWDARSGKCTQQAELSGENINITYKPD	118
+Theobroma_cacao_Cacao_Tree                IELKGHTDSVDQLCWDPKHADLIATASGDKTVRLWDARSGKCSQQAELSGENINITYKPD	118
+Gossypium_arboreum                        IELKGHTDSVDQLCWDPKHADLIATASGDKTVRLWDARSGKCSQQAELSGENINITYKPD	118
+Juglans_regia_English_walnut              IELKGHTDSVDQLCWDPKHADLIATASGDKTVRLWDARSGKCSQQAELSGENINITYKPD	118
+Eucalyptus_grandis                        IELKGHTDSVDQLCWDPKHADLIATASGDKTVRLWDARSGKCSQQAELSGENINITYKPD	180
+Nelumbo_nucifera_Sacred_Lotus             VELKGHTDSVDQLCWDPKHADLIATASGDKTVRLWDARSGKCSQQVELSGENINITYKPD	119
+7ed3267c-1f29-49ec-a967-0a36bab69f8b      IELKGHTDSVDQLCWDPKHGDLIATASGDKTVRLWDARSGKCSMQTELSGENINITYKPD	121
+Quercus_suber_Cork_Oak                    IELKGHTDSVDQLCWDPKHGDLIATASGDKTVRLWDARSGKCSMQAELSGENINITYKPD	121
+                                          :******************.**********************: *.***********:**
+
+Jatropha_curcas                           GTHIAVGNRDDELTILDVRKFKPIHRRKFNYEVNEIAWNMTGEMFLLTTGNGTVEVLAYP	178
+Vitis_vinifera_Wine_Grape                 GTHIAVGNRDDELTILDVRKFKPIHRRKFSYEVNEIAWNMTGEMFFLTTGNGTVEVLAYP	178
+Theobroma_cacao_Cacao_Tree                GTHIAVGNRDDELTILDVRKFKPMHRRKFSYEVNEIAWNMTGDMFFLTTGNGTVEVLAYP	178
+Gossypium_arboreum                        GTHIAVGNRDDELTILDVRKFKPIHRRKFSYEVNEIAWNMTGDMFFLTTGNGTVEVLAYP	178
+Juglans_regia_English_walnut              GTHVAVGNRDDELTILDVRKFRPIHKRKFSYEVNEIAWNMTGEMFFLTTGNGTVEVLAYP	178
+Eucalyptus_grandis                        GTHVAVGNRDDELTILDVRKFKPIHKRKFNYEVNEIAWNMSGEMFFLTTGNGTVEVLAYP	240
+Nelumbo_nucifera_Sacred_Lotus             GTHIAVGNRDDELTILDVRKFKPIHKRKFSYEVNEIAWNTTGEVFFLTTGNGTVEVLAYP	179
+7ed3267c-1f29-49ec-a967-0a36bab69f8b      GTHIAVGNRDDELTILDVRKFKPMHKRKFSYEVNEIAWNMTGEMFFLTTGNGTVEVLAYP	181
+Quercus_suber_Cork_Oak                    GTHIAVGNRDDELTILDVRKFKPMHKRKFSYEVNEIAWNMTGEMFFLTTGNGTVEVLAYP	181
+                                          ***:*****************:*:*:***.********* :*::*:**************
+
+Jatropha_curcas                           SLRPLDTVVAHTAGCYCIAIDPKGRYFAVGSADSLVSLWDISEMLCVRTFTKLEWPVRTI	238
+Vitis_vinifera_Wine_Grape                 ALRPLDTLMAHTAGCYCIAIDPIGRYFAVGSADSLVSLWDISEMLCVRTFTKLEWPVRTI	238
+Theobroma_cacao_Cacao_Tree                SLRPVDTLMAHTAGCYCIAIDPTGRYFAVGSADSLVSLWDISEMLCVRTFTKLEWPVRTI	238
+Gossypium_arboreum                        LLRPVDTLMAHTAGCYCIAIDPTGRYFAVGSADSLVSLWDISEMLCVRTFTKLEWPVRTI	238
+Juglans_regia_English_walnut              SLRLLDTLMAHTAGCYCIAIDPIGRYFAVGSADSLVSLWDISEMLCVRTFTKLEWPVRTI	238
+Eucalyptus_grandis                        SLRPVDTLMAHTAGCYCIAIDPVGRYFAVGSADSLVSLWDISEMLCVRTFTKLEWPVRTI	300
+Nelumbo_nucifera_Sacred_Lotus             SLRPLHTLMAHTAGCYCIAIDPIGRYFAVGSADSLVSLWDLSEMLCVRTFTKLEWPVRTI	239
+7ed3267c-1f29-49ec-a967-0a36bab69f8b      SLRPLDTLVAHTAGCYCIAIDPMGRYFAVGSADSLVSLWEISEMLCVRTFTKLEWPVRTI	241
+Quercus_suber_Cork_Oak                    SLRPLDTLVAHTAGCYCIAIDPMGRYFAVGSADSLVSLWEISEMLCVRTFTKLEWPVRTI	241
+                                           ** :.*::************* ****************::*******************
+
+Jatropha_curcas                           SFNHTGDYIASASEDLFIDISNVHTGRSVHQIPCRAAMNSVEWNPKYNLLAYAGDDKNKY	298
+Vitis_vinifera_Wine_Grape                 SFNHTGEYIASASEDLFIDISNVHTGRTVHQIPCRAAMNSVEWNPKHNLLAYAGDDKNKY	298
+Theobroma_cacao_Cacao_Tree                SFNSTGDYIASASEDLFIDISNVHTGRTVHQIPCRAAMNSVEWNPKYNLLAYAGDDKNKY	298
+Gossypium_arboreum                        SFNYTGDYIASASEDLFIDISNVHTGRTVHQIPCRAAMNSVEWNPKYNLLAYAGDDKNKY	298
+Juglans_regia_English_walnut              SFNYTGDYVASASEDLFIDISNVRTGRTVHQIPCRAAMNSVEWNPKYNLLAYAGDDKNKY	298
+Eucalyptus_grandis                        SFNHTGDYVASASEDLFIDISNVQTGRTVHQIPCRAAMNSVEWNPKYNLLAYAGDDKNKY	360
+Nelumbo_nucifera_Sacred_Lotus             SFNYTGDYIASASEDLFIDISNVQTGRMVHQIPCRAAMNSVEWNPKYNLLAYAGDDKNKY	299
+7ed3267c-1f29-49ec-a967-0a36bab69f8b      SFNYTGDYIASASEDLFIDISNVHTGRTVHQIPCRAAMNSVEWNPKYNLLAYAGDDKNKY	301
+Quercus_suber_Cork_Oak                    SFNYTGDYIASASEDLFIDISNVHTGRTVHQIPCRAAMNSVEWNPRYNLLAYAGDDKNKY	301
+                                          *** **:*:**************:*** *****************::*************
+
+Jatropha_curcas                           LADEGVFRIFGFESA	313
+Vitis_vinifera_Wine_Grape                 QADEGVFRIFGFESA	313
+Theobroma_cacao_Cacao_Tree                SADEGVFRIFGFESS	313
+Gossypium_arboreum                        SADEGVFRIFGFESS	313
+Juglans_regia_English_walnut              QADEGVFRIFGFESA	313
+Eucalyptus_grandis                        QADEGVFRIFGFESA	375
+Nelumbo_nucifera_Sacred_Lotus             QADEGVFRIFGFESP	314
+7ed3267c-1f29-49ec-a967-0a36bab69f8b      QADEGVFRIFGFESP	316
+Quercus_suber_Cork_Oak                    QADEGVFRIFGFESP	316
+                                           ************* 
